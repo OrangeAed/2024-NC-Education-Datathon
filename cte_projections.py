@@ -19,8 +19,11 @@ class CTE_Projections:
         self.cte_jobs = {}
         for cte_pathway in self.pathways_data:
             jobs = self.pathways_data[cte_pathway]["jobs"]
-            relevant_job_rows = self.projection_df[self.projection_df["Industry Title"] in jobs]
-            self.cte_jobs[cte_pathway] = sum(relevant_job_rows["2021"])
+            relevant_job_rows = self.projection_df[self.projection_df["Industry Title"].isin(jobs)]
+            t = type(relevant_job_rows)
+            job_totals = relevant_job_rows.iloc[:, 4]
+            job_totals_int = [0 if t == '*' else t for t in job_totals.array]
+            self.cte_jobs[cte_pathway] = sum(job_totals_int)
 
         return self.cte_jobs
 
