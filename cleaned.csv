@@ -1,0 +1,3215 @@
+,agency_code,career_cluster,num_concentrators,Title I Served School,District Name
+50,010324,AAVC,83,0,Alamance-Burlington Schools
+51,010324,AGNR,9,0,Alamance-Burlington Schools
+52,010324,ARCH,27,0,Alamance-Burlington Schools
+53,010324,BMA,1,0,Alamance-Burlington Schools
+54,010324,FINA,5,0,Alamance-Burlington Schools
+55,010324,HLTH,25,0,Alamance-Burlington Schools
+56,010324,HOSP,15,0,Alamance-Burlington Schools
+57,010324,HUMA,23,0,Alamance-Burlington Schools
+58,010324,INFO,1,0,Alamance-Burlington Schools
+59,010324,LAW,1,0,Alamance-Burlington Schools
+60,010324,STEM,11,0,Alamance-Burlington Schools
+120,010348,AAVC,2,0,Alamance-Burlington Schools
+121,010348,ARCH,12,0,Alamance-Burlington Schools
+122,010348,BMA,1,0,Alamance-Burlington Schools
+123,010348,HLTH,9,0,Alamance-Burlington Schools
+124,010348,HUMA,27,0,Alamance-Burlington Schools
+125,010348,INFO,1,0,Alamance-Burlington Schools
+126,010348,LAW,5,0,Alamance-Burlington Schools
+127,010348,STEM,1,0,Alamance-Burlington Schools
+128,010348,TRAN,1,0,Alamance-Burlington Schools
+189,010360,AAVC,8,0,Alamance-Burlington Schools
+190,010360,AGNR,16,0,Alamance-Burlington Schools
+191,010360,ARCH,5,0,Alamance-Burlington Schools
+192,010360,FINA,13,0,Alamance-Burlington Schools
+193,010360,HLTH,29,0,Alamance-Burlington Schools
+194,010360,HOSP,32,0,Alamance-Burlington Schools
+195,010360,HUMA,46,0,Alamance-Burlington Schools
+196,010360,LAW,4,0,Alamance-Burlington Schools
+197,010360,STEM,3,0,Alamance-Burlington Schools
+198,010360,TRAN,4,0,Alamance-Burlington Schools
+255,010388,AAVC,10,0,Alamance-Burlington Schools
+256,010388,AGNR,113,0,Alamance-Burlington Schools
+257,010388,ARCH,23,0,Alamance-Burlington Schools
+258,010388,BMA,2,0,Alamance-Burlington Schools
+259,010388,HLTH,42,0,Alamance-Burlington Schools
+260,010388,HUMA,28,0,Alamance-Burlington Schools
+261,010388,INFO,7,0,Alamance-Burlington Schools
+262,010388,LAW,11,0,Alamance-Burlington Schools
+263,010388,STEM,4,0,Alamance-Burlington Schools
+264,010388,TRAN,1,0,Alamance-Burlington Schools
+329,010396,AAVC,94,0,Alamance-Burlington Schools
+330,010396,ARCH,17,0,Alamance-Burlington Schools
+331,010396,FINA,20,0,Alamance-Burlington Schools
+332,010396,HLTH,41,0,Alamance-Burlington Schools
+333,010396,HOSP,29,0,Alamance-Burlington Schools
+334,010396,HUMA,41,0,Alamance-Burlington Schools
+335,010396,INFO,8,0,Alamance-Burlington Schools
+336,010396,LAW,1,0,Alamance-Burlington Schools
+337,010396,STEM,13,0,Alamance-Burlington Schools
+338,010396,TRAN,6,0,Alamance-Burlington Schools
+397,010400,AAVC,2,0,Alamance-Burlington Schools
+398,010400,AGNR,19,0,Alamance-Burlington Schools
+399,010400,ARCH,45,0,Alamance-Burlington Schools
+400,010400,BMA,1,0,Alamance-Burlington Schools
+401,010400,HLTH,19,0,Alamance-Burlington Schools
+402,010400,HUMA,26,0,Alamance-Burlington Schools
+403,010400,INFO,2,0,Alamance-Burlington Schools
+404,010400,LAW,7,0,Alamance-Burlington Schools
+405,010400,STEM,3,0,Alamance-Burlington Schools
+406,010400,TRAN,3,0,Alamance-Burlington Schools
+465,020302,AAVC,25,0,Alexander County Schools
+466,020302,AGNR,55,0,Alexander County Schools
+467,020302,ARCH,55,0,Alexander County Schools
+468,020302,BMA,10,0,Alexander County Schools
+469,020302,HLTH,33,0,Alexander County Schools
+470,020302,HUMA,76,0,Alexander County Schools
+471,020302,INFO,1,0,Alexander County Schools
+472,020302,STEM,9,0,Alexander County Schools
+529,030304,AAVC,30,0,Alleghany County Schools
+530,030304,AGNR,24,0,Alleghany County Schools
+531,030304,ARCH,5,0,Alleghany County Schools
+532,030304,HLTH,13,0,Alleghany County Schools
+533,030304,HUMA,17,0,Alleghany County Schools
+534,030304,LAW,3,0,Alleghany County Schools
+535,030304,TRAN,7,0,Alleghany County Schools
+586,040306,AAVC,1,0,Anson County Schools
+587,040306,AGNR,11,0,Anson County Schools
+588,040306,ARCH,6,0,Anson County Schools
+589,040306,HLTH,10,0,Anson County Schools
+590,040306,HUMA,13,0,Anson County Schools
+591,040306,LAW,1,0,Anson County Schools
+592,040306,MRKT,8,0,Anson County Schools
+593,040306,STEM,10,0,Anson County Schools
+594,040306,TRAN,17,0,Anson County Schools
+652,050302,AGNR,9,0,Ashe County Schools
+653,050302,ARCH,6,0,Ashe County Schools
+654,050302,BMA,1,0,Ashe County Schools
+655,050302,EDUC,4,0,Ashe County Schools
+656,050302,HLTH,24,0,Ashe County Schools
+657,050302,HOSP,2,0,Ashe County Schools
+658,050302,HUMA,2,0,Ashe County Schools
+659,050302,MANU,13,0,Ashe County Schools
+660,050302,STEM,6,0,Ashe County Schools
+661,050302,TRAN,9,0,Ashe County Schools
+711,060302,AGNR,13,0,Avery County Schools
+712,060302,ARCH,8,0,Avery County Schools
+713,060302,HLTH,6,0,Avery County Schools
+714,060302,HOSP,6,0,Avery County Schools
+715,060302,MANU,16,0,Avery County Schools
+716,060302,STEM,9,0,Avery County Schools
+748,070310,TRAN,1,0,Beaufort County Schools
+777,070311,INFO,1,0,Beaufort County Schools
+778,070311,MANU,3,0,Beaufort County Schools
+779,070311,MRKT,1,0,Beaufort County Schools
+780,070311,TRAN,1,0,Beaufort County Schools
+822,070330,AGNR,3,0,Beaufort County Schools
+823,070330,ARCH,10,0,Beaufort County Schools
+824,070330,HLTH,9,0,Beaufort County Schools
+825,070330,HUMA,7,0,Beaufort County Schools
+826,070330,LAW,2,0,Beaufort County Schools
+827,070330,MANU,2,0,Beaufort County Schools
+828,070330,TRAN,5,0,Beaufort County Schools
+873,070339,ARCH,2,0,Beaufort County Schools
+874,070339,HLTH,7,0,Beaufort County Schools
+875,070339,HUMA,18,0,Beaufort County Schools
+876,070339,LAW,4,0,Beaufort County Schools
+877,070339,MANU,34,0,Beaufort County Schools
+926,070342,AGNR,12,0,Beaufort County Schools
+927,070342,ARCH,4,0,Beaufort County Schools
+928,070342,HLTH,9,0,Beaufort County Schools
+929,070342,HUMA,14,0,Beaufort County Schools
+930,070342,MANU,9,0,Beaufort County Schools
+958,080311,AGNR,18,1,Bertie County Schools
+959,080311,TRAN,1,1,Bertie County Schools
+1006,080312,BMA,11,1,Bertie County Schools
+1007,080312,HUMA,48,1,Bertie County Schools
+1008,080312,MANU,2,1,Bertie County Schools
+1009,080312,STEM,4,1,Bertie County Schools
+1010,080312,TRAN,6,1,Bertie County Schools
+1067,090330,AAVC,3,0,Bladen County Schools
+1068,090330,AGNR,16,0,Bladen County Schools
+1069,090330,ARCH,19,0,Bladen County Schools
+1070,090330,BMA,10,0,Bladen County Schools
+1071,090330,HLTH,31,0,Bladen County Schools
+1072,090330,HUMA,33,0,Bladen County Schools
+1073,090330,LAW,6,0,Bladen County Schools
+1074,090330,MANU,7,0,Bladen County Schools
+1075,090330,TRAN,10,0,Bladen County Schools
+1127,090368,AGNR,44,0,Bladen County Schools
+1128,090368,ARCH,16,0,Bladen County Schools
+1129,090368,BMA,2,0,Bladen County Schools
+1130,090368,HLTH,56,0,Bladen County Schools
+1131,090368,HUMA,51,0,Bladen County Schools
+1132,090368,MANU,22,0,Bladen County Schools
+1156,100307,BMA,1,0,Brunswick County Schools
+1223,100326,AAVC,4,0,Brunswick County Schools
+1224,100326,ARCH,1,0,Brunswick County Schools
+1225,100326,HLTH,13,0,Brunswick County Schools
+1226,100326,HUMA,23,0,Brunswick County Schools
+1278,100334,AGNR,20,0,Brunswick County Schools
+1279,100334,ARCH,21,0,Brunswick County Schools
+1280,100334,BMA,1,0,Brunswick County Schools
+1281,100334,HLTH,22,0,Brunswick County Schools
+1282,100334,HUMA,24,0,Brunswick County Schools
+1283,100334,INFO,1,0,Brunswick County Schools
+1284,100334,STEM,11,0,Brunswick County Schools
+1337,100348,AAVC,6,0,Brunswick County Schools
+1338,100348,AGNR,24,0,Brunswick County Schools
+1339,100348,HLTH,43,0,Brunswick County Schools
+1340,100348,HOSP,8,0,Brunswick County Schools
+1341,100348,HUMA,64,0,Brunswick County Schools
+1342,100348,INFO,1,0,Brunswick County Schools
+1343,100348,LAW,3,0,Brunswick County Schools
+1344,100348,STEM,1,0,Brunswick County Schools
+1345,100348,TRAN,8,0,Brunswick County Schools
+1382,110303,AGNR,6,0,Buncombe County Schools
+1383,110303,HLTH,1,0,Buncombe County Schools
+1384,110303,HUMA,8,0,Buncombe County Schools
+1436,110304,AAVC,33,0,Buncombe County Schools
+1437,110304,AGNR,10,0,Buncombe County Schools
+1438,110304,ARCH,18,0,Buncombe County Schools
+1439,110304,BMA,6,0,Buncombe County Schools
+1440,110304,HLTH,50,0,Buncombe County Schools
+1441,110304,HOSP,37,0,Buncombe County Schools
+1442,110304,HUMA,32,0,Buncombe County Schools
+1443,110304,MRKT,10,0,Buncombe County Schools
+1444,110304,TRAN,8,0,Buncombe County Schools
+1488,110323,HUMA,1,0,Buncombe County Schools
+1489,110323,MANU,2,0,Buncombe County Schools
+1535,110336,AAVC,21,0,Buncombe County Schools
+1536,110336,AGNR,35,0,Buncombe County Schools
+1537,110336,ARCH,8,0,Buncombe County Schools
+1538,110336,HLTH,27,0,Buncombe County Schools
+1539,110336,HOSP,23,0,Buncombe County Schools
+1540,110336,HUMA,15,0,Buncombe County Schools
+1541,110336,MANU,7,0,Buncombe County Schools
+1542,110336,STEM,8,0,Buncombe County Schools
+1593,110340,AAVC,11,0,Buncombe County Schools
+1594,110340,AGNR,31,0,Buncombe County Schools
+1595,110340,ARCH,20,0,Buncombe County Schools
+1596,110340,HLTH,58,0,Buncombe County Schools
+1597,110340,HOSP,18,0,Buncombe County Schools
+1598,110340,HUMA,55,0,Buncombe County Schools
+1599,110340,MANU,4,0,Buncombe County Schools
+1654,110352,AAVC,7,0,Buncombe County Schools
+1655,110352,AGNR,47,0,Buncombe County Schools
+1656,110352,ARCH,7,0,Buncombe County Schools
+1657,110352,HLTH,43,0,Buncombe County Schools
+1658,110352,HOSP,28,0,Buncombe County Schools
+1659,110352,HUMA,15,0,Buncombe County Schools
+1660,110352,TRAN,5,0,Buncombe County Schools
+1713,110380,AGNR,38,0,Buncombe County Schools
+1714,110380,ARCH,46,0,Buncombe County Schools
+1715,110380,BMA,9,0,Buncombe County Schools
+1716,110380,HLTH,34,0,Buncombe County Schools
+1717,110380,HOSP,22,0,Buncombe County Schools
+1718,110380,HUMA,26,0,Buncombe County Schools
+1719,110380,MANU,32,0,Buncombe County Schools
+1720,110380,TRAN,1,0,Buncombe County Schools
+1776,110416,AAVC,25,0,Buncombe County Schools
+1777,110416,AGNR,20,0,Buncombe County Schools
+1778,110416,ARCH,18,0,Buncombe County Schools
+1779,110416,HLTH,60,0,Buncombe County Schools
+1780,110416,HUMA,46,0,Buncombe County Schools
+1781,110416,INFO,1,0,Buncombe County Schools
+1782,110416,TRAN,2,0,Buncombe County Schools
+1833,111302,AAVC,28,0,Asheville City Schools
+1834,111302,HLTH,22,0,Asheville City Schools
+1835,111302,HOSP,24,0,Asheville City Schools
+1836,111302,HUMA,1,0,Asheville City Schools
+1875,111700,AAVC,12,0,Asheville City Schools
+1876,111700,HLTH,4,0,Asheville City Schools
+1939,120310,AAVC,1,0,Burke County Schools
+1940,120310,ARCH,1,0,Burke County Schools
+1941,120310,BMA,1,0,Burke County Schools
+1942,120310,HLTH,1,0,Burke County Schools
+1943,120310,HUMA,1,0,Burke County Schools
+1944,120310,LAW,2,0,Burke County Schools
+1945,120310,MANU,1,0,Burke County Schools
+1946,120310,STEM,1,0,Burke County Schools
+1994,120314,AAVC,3,0,Burke County Schools
+1995,120314,AGNR,19,0,Burke County Schools
+1996,120314,ARCH,21,0,Burke County Schools
+1997,120314,HLTH,22,0,Burke County Schools
+1998,120314,HUMA,32,0,Burke County Schools
+1999,120314,LAW,1,0,Burke County Schools
+2000,120314,MANU,9,0,Burke County Schools
+2001,120314,STEM,1,0,Burke County Schools
+2055,120318,AGNR,4,0,Burke County Schools
+2056,120318,ARCH,14,0,Burke County Schools
+2057,120318,BMA,2,0,Burke County Schools
+2058,120318,HLTH,12,0,Burke County Schools
+2059,120318,HUMA,62,0,Burke County Schools
+2060,120318,LAW,8,0,Burke County Schools
+2061,120318,MANU,2,0,Burke County Schools
+2062,120318,STEM,7,0,Burke County Schools
+2063,120318,TRAN,4,0,Burke County Schools
+2117,120346,ARCH,9,0,Burke County Schools
+2118,120346,BMA,2,0,Burke County Schools
+2119,120346,HLTH,14,0,Burke County Schools
+2120,120346,HUMA,12,0,Burke County Schools
+2121,120346,LAW,6,0,Burke County Schools
+2174,120370,AAVC,13,0,Burke County Schools
+2175,120370,ARCH,9,0,Burke County Schools
+2176,120370,BMA,3,0,Burke County Schools
+2177,120370,HLTH,16,0,Burke County Schools
+2178,120370,LAW,20,0,Burke County Schools
+2179,120370,STEM,13,0,Burke County Schools
+2180,120370,TRAN,9,0,Burke County Schools
+2240,130307,AAVC,28,0,Cabarrus County Schools
+2241,130307,AGNR,12,0,Cabarrus County Schools
+2242,130307,ARCH,19,0,Cabarrus County Schools
+2243,130307,BMA,4,0,Cabarrus County Schools
+2244,130307,FINA,6,0,Cabarrus County Schools
+2245,130307,HLTH,82,0,Cabarrus County Schools
+2246,130307,HOSP,39,0,Cabarrus County Schools
+2247,130307,HUMA,62,0,Cabarrus County Schools
+2248,130307,INFO,46,0,Cabarrus County Schools
+2249,130307,LAW,1,0,Cabarrus County Schools
+2250,130307,MRKT,16,0,Cabarrus County Schools
+2251,130307,STEM,12,0,Cabarrus County Schools
+2313,130310,AGNR,20,0,Cabarrus County Schools
+2314,130310,ARCH,38,0,Cabarrus County Schools
+2315,130310,BMA,4,0,Cabarrus County Schools
+2316,130310,HLTH,38,0,Cabarrus County Schools
+2317,130310,HUMA,36,0,Cabarrus County Schools
+2318,130310,INFO,1,0,Cabarrus County Schools
+2319,130310,LAW,1,0,Cabarrus County Schools
+2320,130310,STEM,27,0,Cabarrus County Schools
+2372,130314,ARCH,34,0,Cabarrus County Schools
+2373,130314,EDUC,5,0,Cabarrus County Schools
+2374,130314,HLTH,9,0,Cabarrus County Schools
+2375,130314,HOSP,11,0,Cabarrus County Schools
+2376,130314,HUMA,50,0,Cabarrus County Schools
+2377,130314,LAW,33,0,Cabarrus County Schools
+2437,130316,AAVC,7,0,Cabarrus County Schools
+2438,130316,ARCH,5,0,Cabarrus County Schools
+2439,130316,HLTH,29,0,Cabarrus County Schools
+2440,130316,HUMA,41,0,Cabarrus County Schools
+2441,130316,INFO,1,0,Cabarrus County Schools
+2442,130316,LAW,1,0,Cabarrus County Schools
+2443,130316,MANU,3,0,Cabarrus County Schools
+2444,130316,MRKT,9,0,Cabarrus County Schools
+2445,130316,STEM,64,0,Cabarrus County Schools
+2446,130316,TRAN,11,0,Cabarrus County Schools
+2527,130324,AAVC,13,0,Cabarrus County Schools
+2528,130324,AGNR,33,0,Cabarrus County Schools
+2529,130324,ARCH,11,0,Cabarrus County Schools
+2530,130324,BMA,2,0,Cabarrus County Schools
+2531,130324,EDUC,2,0,Cabarrus County Schools
+2532,130324,HLTH,20,0,Cabarrus County Schools
+2533,130324,HOSP,10,0,Cabarrus County Schools
+2534,130324,HUMA,10,0,Cabarrus County Schools
+2535,130324,INFO,1,0,Cabarrus County Schools
+2536,130324,LAW,1,0,Cabarrus County Schools
+2537,130324,TRAN,18,0,Cabarrus County Schools
+2595,130326,AAVC,7,0,Cabarrus County Schools
+2596,130326,AGNR,18,0,Cabarrus County Schools
+2597,130326,ARCH,23,0,Cabarrus County Schools
+2598,130326,EDUC,1,0,Cabarrus County Schools
+2599,130326,HLTH,45,0,Cabarrus County Schools
+2600,130326,HUMA,63,0,Cabarrus County Schools
+2601,130326,INFO,3,0,Cabarrus County Schools
+2602,130326,STEM,14,0,Cabarrus County Schools
+2603,130326,TRAN,8,0,Cabarrus County Schools
+2668,130332,AAVC,10,0,Cabarrus County Schools
+2669,130332,AGNR,13,0,Cabarrus County Schools
+2670,130332,ARCH,2,0,Cabarrus County Schools
+2671,130332,HLTH,72,0,Cabarrus County Schools
+2672,130332,HOSP,14,0,Cabarrus County Schools
+2673,130332,HUMA,27,0,Cabarrus County Schools
+2674,130332,INFO,2,0,Cabarrus County Schools
+2675,130332,STEM,11,0,Cabarrus County Schools
+2676,130332,TRAN,1,0,Cabarrus County Schools
+2722,130333,BMA,2,0,Cabarrus County Schools
+2723,130333,HUMA,1,0,Cabarrus County Schools
+2780,132304,AAVC,3,0,Kannapolis City Schools
+2781,132304,ARCH,34,0,Kannapolis City Schools
+2782,132304,HLTH,63,0,Kannapolis City Schools
+2783,132304,HOSP,8,0,Kannapolis City Schools
+2784,132304,HUMA,24,0,Kannapolis City Schools
+2785,132304,INFO,1,0,Kannapolis City Schools
+2786,132304,LAW,7,0,Kannapolis City Schools
+2787,132304,MANU,5,0,Kannapolis City Schools
+2788,132304,STEM,31,0,Kannapolis City Schools
+2789,132304,TRAN,3,0,Kannapolis City Schools
+2834,140305,HLTH,14,0,Caldwell County Schools
+2835,140305,INFO,29,0,Caldwell County Schools
+2836,140305,STEM,39,0,Caldwell County Schools
+2884,140348,AAVC,3,0,Caldwell County Schools
+2885,140348,ARCH,17,0,Caldwell County Schools
+2886,140348,HLTH,29,0,Caldwell County Schools
+2887,140348,HUMA,52,0,Caldwell County Schools
+2888,140348,MANU,1,0,Caldwell County Schools
+2889,140348,STEM,1,0,Caldwell County Schools
+2890,140348,TRAN,1,0,Caldwell County Schools
+2951,140386,AAVC,2,0,Caldwell County Schools
+2952,140386,AGNR,9,0,Caldwell County Schools
+2953,140386,ARCH,28,0,Caldwell County Schools
+2954,140386,BMA,1,0,Caldwell County Schools
+2955,140386,HLTH,55,0,Caldwell County Schools
+2956,140386,HUMA,41,0,Caldwell County Schools
+2957,140386,INFO,3,0,Caldwell County Schools
+2958,140386,LAW,1,0,Caldwell County Schools
+2959,140386,STEM,17,0,Caldwell County Schools
+2960,140386,TRAN,5,0,Caldwell County Schools
+3018,140390,AGNR,5,0,Caldwell County Schools
+3019,140390,ARCH,9,0,Caldwell County Schools
+3020,140390,HLTH,21,0,Caldwell County Schools
+3021,140390,HOSP,1,0,Caldwell County Schools
+3022,140390,HUMA,30,0,Caldwell County Schools
+3023,140390,MANU,1,0,Caldwell County Schools
+3024,140390,STEM,4,0,Caldwell County Schools
+3025,140390,TRAN,4,0,Caldwell County Schools
+3066,150304,AGNR,9,1,Camden County Schools
+3067,150304,ARCH,4,1,Camden County Schools
+3068,150304,HLTH,17,1,Camden County Schools
+3069,150304,HOSP,19,1,Camden County Schools
+3070,150304,HUMA,24,1,Camden County Schools
+3071,150304,LAW,6,1,Camden County Schools
+3072,150304,MANU,4,1,Camden County Schools
+3117,160313,ARCH,4,0,Carteret County Public Schools
+3118,160313,HLTH,4,0,Carteret County Public Schools
+3119,160313,HUMA,27,0,Carteret County Public Schools
+3120,160313,MANU,8,0,Carteret County Public Schools
+3165,160314,AGNR,23,0,Carteret County Public Schools
+3166,160314,ARCH,11,0,Carteret County Public Schools
+3167,160314,HLTH,17,0,Carteret County Public Schools
+3168,160314,HOSP,56,0,Carteret County Public Schools
+3169,160314,HUMA,5,0,Carteret County Public Schools
+3170,160314,INFO,3,0,Carteret County Public Schools
+3171,160314,LAW,1,0,Carteret County Public Schools
+3172,160314,STEM,13,0,Carteret County Public Schools
+3222,160344,AGNR,19,0,Carteret County Public Schools
+3223,160344,ARCH,7,0,Carteret County Public Schools
+3224,160344,HLTH,33,0,Carteret County Public Schools
+3225,160344,HOSP,32,0,Carteret County Public Schools
+3226,160344,HUMA,11,0,Carteret County Public Schools
+3227,160344,INFO,3,0,Carteret County Public Schools
+3228,160344,STEM,6,0,Carteret County Public Schools
+3278,170316,AGNR,20,0,Caswell County Schools
+3279,170316,HLTH,22,0,Caswell County Schools
+3280,170316,HUMA,17,0,Caswell County Schools
+3281,170316,LAW,15,0,Caswell County Schools
+3282,170316,MANU,16,0,Caswell County Schools
+3283,170316,TRAN,12,0,Caswell County Schools
+3337,180308,AAVC,7,0,Catawba County Schools
+3338,180308,AGNR,34,0,Catawba County Schools
+3339,180308,ARCH,6,0,Catawba County Schools
+3340,180308,HLTH,18,0,Catawba County Schools
+3341,180308,HOSP,14,0,Catawba County Schools
+3342,180308,HUMA,33,0,Catawba County Schools
+3343,180308,MANU,1,0,Catawba County Schools
+3344,180308,STEM,2,0,Catawba County Schools
+3345,180308,TRAN,3,0,Catawba County Schools
+3394,180320,AAVC,20,0,Catawba County Schools
+3395,180320,AGNR,23,0,Catawba County Schools
+3396,180320,HLTH,57,0,Catawba County Schools
+3397,180320,STEM,7,0,Catawba County Schools
+3398,180320,TRAN,6,0,Catawba County Schools
+3481,180340,AGNR,6,0,Catawba County Schools
+3482,180340,ARCH,7,0,Catawba County Schools
+3483,180340,EDUC,1,0,Catawba County Schools
+3484,180340,HLTH,33,0,Catawba County Schools
+3485,180340,HUMA,26,0,Catawba County Schools
+3486,180340,INFO,1,0,Catawba County Schools
+3487,180340,MANU,11,0,Catawba County Schools
+3488,180340,STEM,7,0,Catawba County Schools
+3543,180348,AAVC,11,0,Catawba County Schools
+3544,180348,ARCH,19,0,Catawba County Schools
+3545,180348,HLTH,30,0,Catawba County Schools
+3546,180348,HOSP,6,0,Catawba County Schools
+3547,180348,HUMA,1,0,Catawba County Schools
+3548,180348,TRAN,6,0,Catawba County Schools
+3598,180376,AAVC,5,0,Catawba County Schools
+3599,180376,AGNR,11,0,Catawba County Schools
+3600,180376,ARCH,24,0,Catawba County Schools
+3601,180376,HLTH,27,0,Catawba County Schools
+3602,180376,HUMA,13,0,Catawba County Schools
+3603,180376,STEM,15,0,Catawba County Schools
+3646,181318,AAVC,3,0,Hickory City Schools
+3647,181318,HLTH,9,0,Hickory City Schools
+3648,181318,HOSP,6,0,Hickory City Schools
+3649,181318,HUMA,9,0,Hickory City Schools
+3650,181318,INFO,5,0,Hickory City Schools
+3651,181318,LAW,2,0,Hickory City Schools
+3697,181322,ARCH,1,0,Hickory City Schools
+3698,181322,HLTH,18,0,Hickory City Schools
+3699,181322,HUMA,24,0,Hickory City Schools
+3700,181322,LAW,4,0,Hickory City Schools
+3701,181322,TRAN,8,0,Hickory City Schools
+3747,182316,AAVC,28,0,Newton Conover City Schools
+3748,182316,ARCH,14,0,Newton Conover City Schools
+3749,182316,HLTH,29,0,Newton Conover City Schools
+3750,182316,HUMA,14,0,Newton Conover City Schools
+3837,190316,AGNR,18,0,Chatham County Schools
+3838,190316,ARCH,2,0,Chatham County Schools
+3839,190316,BMA,2,0,Chatham County Schools
+3840,190316,HLTH,7,0,Chatham County Schools
+3841,190316,HOSP,1,0,Chatham County Schools
+3842,190316,LAW,2,0,Chatham County Schools
+3843,190316,MANU,3,0,Chatham County Schools
+3894,190336,AAVC,8,0,Chatham County Schools
+3895,190336,AGNR,18,0,Chatham County Schools
+3896,190336,ARCH,9,0,Chatham County Schools
+3897,190336,HLTH,16,0,Chatham County Schools
+3898,190336,HOSP,12,0,Chatham County Schools
+3899,190336,HUMA,25,0,Chatham County Schools
+3900,190336,LAW,1,0,Chatham County Schools
+3901,190336,MANU,1,0,Chatham County Schools
+3902,190336,MRKT,11,0,Chatham County Schools
+3903,190336,TRAN,2,0,Chatham County Schools
+3960,190342,AAVC,4,0,Chatham County Schools
+3961,190342,AGNR,25,0,Chatham County Schools
+3962,190342,ARCH,17,0,Chatham County Schools
+3963,190342,HLTH,41,0,Chatham County Schools
+3964,190342,HOSP,29,0,Chatham County Schools
+3965,190342,HUMA,35,0,Chatham County Schools
+3966,190342,INFO,19,0,Chatham County Schools
+3967,190342,LAW,12,0,Chatham County Schools
+3968,190342,MANU,2,0,Chatham County Schools
+3969,190342,TRAN,2,0,Chatham County Schools
+4005,19A000,HLTH,3,1,Charter Schools
+4006,19A000,INFO,3,1,Charter Schools
+4007,19A000,MRKT,1,1,Charter Schools
+4008,19A000,TRAN,2,1,Charter Schools
+4044,200308,HLTH,6,0,Cherokee County Schools
+4045,200308,HOSP,10,0,Cherokee County Schools
+4046,200308,HUMA,7,0,Cherokee County Schools
+4047,200308,LAW,18,0,Cherokee County Schools
+4048,200308,TRAN,3,0,Cherokee County Schools
+4083,200314,HLTH,9,0,Cherokee County Schools
+4084,200314,HOSP,9,0,Cherokee County Schools
+4085,200314,HUMA,15,0,Cherokee County Schools
+4086,200314,MANU,2,0,Cherokee County Schools
+4155,200328,AAVC,8,0,Cherokee County Schools
+4156,200328,AGNR,5,0,Cherokee County Schools
+4157,200328,ARCH,13,0,Cherokee County Schools
+4158,200328,BMA,12,0,Cherokee County Schools
+4159,200328,HLTH,19,0,Cherokee County Schools
+4160,200328,HUMA,25,0,Cherokee County Schools
+4161,200328,MANU,2,0,Cherokee County Schools
+4162,200328,TRAN,3,0,Cherokee County Schools
+4194,200350,HOSP,1,0,Cherokee County Schools
+4195,200350,MANU,2,0,Cherokee County Schools
+4196,200350,TRAN,2,0,Cherokee County Schools
+4236,210312,AGNR,14,0,Edenton-Chowan Schools
+4237,210312,ARCH,1,0,Edenton-Chowan Schools
+4238,210312,HLTH,45,0,Edenton-Chowan Schools
+4239,210312,HUMA,28,0,Edenton-Chowan Schools
+4240,210312,MANU,26,0,Edenton-Chowan Schools
+4241,210312,STEM,19,0,Edenton-Chowan Schools
+4281,220310,AGNR,11,0,Clay County Schools
+4282,220310,ARCH,3,0,Clay County Schools
+4283,220310,BMA,14,0,Clay County Schools
+4284,220310,HLTH,47,0,Clay County Schools
+4285,220310,HUMA,17,0,Clay County Schools
+4286,220310,TRAN,6,0,Clay County Schools
+4339,230312,AGNR,48,0,Cleveland County Schools
+4340,230312,ARCH,26,0,Cleveland County Schools
+4341,230312,HLTH,25,0,Cleveland County Schools
+4342,230312,HOSP,12,0,Cleveland County Schools
+4343,230312,HUMA,55,0,Cleveland County Schools
+4344,230312,LAW,1,0,Cleveland County Schools
+4345,230312,MANU,12,0,Cleveland County Schools
+4426,230324,AGNR,21,0,Cleveland County Schools
+4427,230324,ARCH,8,0,Cleveland County Schools
+4428,230324,BMA,1,0,Cleveland County Schools
+4429,230324,EDUC,2,0,Cleveland County Schools
+4430,230324,HLTH,36,0,Cleveland County Schools
+4431,230324,HOSP,27,0,Cleveland County Schools
+4432,230324,HUMA,20,0,Cleveland County Schools
+4433,230324,LAW,10,0,Cleveland County Schools
+4434,230324,MANU,42,0,Cleveland County Schools
+4435,230324,STEM,1,0,Cleveland County Schools
+4436,230324,TRAN,7,0,Cleveland County Schools
+4525,230350,AAVC,16,0,Cleveland County Schools
+4526,230350,AGNR,9,0,Cleveland County Schools
+4527,230350,ARCH,19,0,Cleveland County Schools
+4528,230350,EDUC,18,0,Cleveland County Schools
+4529,230350,HLTH,34,0,Cleveland County Schools
+4530,230350,HOSP,13,0,Cleveland County Schools
+4531,230350,HUMA,31,0,Cleveland County Schools
+4532,230350,LAW,4,0,Cleveland County Schools
+4533,230350,MANU,62,0,Cleveland County Schools
+4534,230350,STEM,13,0,Cleveland County Schools
+4591,230361,ARCH,39,0,Cleveland County Schools
+4592,230361,BMA,9,0,Cleveland County Schools
+4593,230361,EDUC,3,0,Cleveland County Schools
+4594,230361,HLTH,32,0,Cleveland County Schools
+4595,230361,HOSP,17,0,Cleveland County Schools
+4596,230361,HUMA,1,0,Cleveland County Schools
+4597,230361,LAW,2,0,Cleveland County Schools
+4598,230361,MANU,6,0,Cleveland County Schools
+4599,230361,TRAN,2,0,Cleveland County Schools
+4636,240334,AGNR,39,1,Columbus County Schools
+4637,240334,HLTH,4,1,Columbus County Schools
+4638,240334,TRAN,6,1,Columbus County Schools
+4673,240371,AGNR,31,0,Columbus County Schools
+4674,240371,HLTH,16,0,Columbus County Schools
+4675,240371,LAW,8,0,Columbus County Schools
+4676,240371,TRAN,9,0,Columbus County Schools
+4713,240373,AAVC,11,0,Columbus County Schools
+4714,240373,ARCH,9,0,Columbus County Schools
+4715,240373,EDUC,1,0,Columbus County Schools
+4716,240373,HOSP,12,0,Columbus County Schools
+4717,240373,MANU,11,0,Columbus County Schools
+4751,240380,AGNR,33,0,Columbus County Schools
+4752,240380,HLTH,21,0,Columbus County Schools
+4753,240380,TRAN,8,0,Columbus County Schools
+4799,241316,AGNR,7,1,Whiteville City Schools
+4800,241316,ARCH,20,1,Whiteville City Schools
+4801,241316,HLTH,48,1,Whiteville City Schools
+4802,241316,HUMA,54,1,Whiteville City Schools
+4803,241316,LAW,1,1,Whiteville City Schools
+4804,241316,MANU,1,1,Whiteville City Schools
+4805,241316,TRAN,15,1,Whiteville City Schools
+4837,250314,BMA,1,0,Craven County Schools
+4838,250314,HLTH,1,0,Craven County Schools
+4839,250314,HUMA,2,0,Craven County Schools
+4840,250314,INFO,1,0,Craven County Schools
+4841,250314,MANU,1,0,Craven County Schools
+4873,250321,BMA,1,0,Craven County Schools
+4874,250321,HUMA,1,0,Craven County Schools
+4875,250321,MANU,2,0,Craven County Schools
+4876,250321,STEM,54,0,Craven County Schools
+4927,250340,AAVC,21,0,Craven County Schools
+4928,250340,AGNR,20,0,Craven County Schools
+4929,250340,EDUC,1,0,Craven County Schools
+4930,250340,HLTH,19,0,Craven County Schools
+4931,250340,HUMA,17,0,Craven County Schools
+4932,250340,INFO,1,0,Craven County Schools
+4933,250340,LAW,22,0,Craven County Schools
+4934,250340,MANU,28,0,Craven County Schools
+4935,250340,STEM,20,0,Craven County Schools
+4936,250340,TRAN,5,0,Craven County Schools
+4994,250356,AAVC,3,0,Craven County Schools
+4995,250356,AGNR,18,0,Craven County Schools
+4996,250356,HLTH,36,0,Craven County Schools
+4997,250356,HOSP,5,0,Craven County Schools
+4998,250356,HUMA,27,0,Craven County Schools
+4999,250356,INFO,2,0,Craven County Schools
+5000,250356,LAW,10,0,Craven County Schools
+5001,250356,MANU,28,0,Craven County Schools
+5002,250356,MRKT,8,0,Craven County Schools
+5003,250356,STEM,4,0,Craven County Schools
+5057,250372,AAVC,1,0,Craven County Schools
+5058,250372,AGNR,39,0,Craven County Schools
+5059,250372,HLTH,32,0,Craven County Schools
+5060,250372,HOSP,6,0,Craven County Schools
+5061,250372,LAW,11,0,Craven County Schools
+5062,250372,MANU,30,0,Craven County Schools
+5119,260318,AAVC,15,0,Cumberland County Schools
+5120,260318,BMA,4,0,Cumberland County Schools
+5121,260318,FINA,5,0,Cumberland County Schools
+5122,260318,HLTH,61,0,Cumberland County Schools
+5123,260318,HOSP,39,0,Cumberland County Schools
+5124,260318,HUMA,18,0,Cumberland County Schools
+5125,260318,INFO,2,0,Cumberland County Schools
+5126,260318,LAW,66,0,Cumberland County Schools
+5127,260318,STEM,47,0,Cumberland County Schools
+5183,260322,AAVC,2,1,Cumberland County Schools
+5184,260322,ARCH,17,1,Cumberland County Schools
+5185,260322,BMA,5,1,Cumberland County Schools
+5186,260322,FINA,6,1,Cumberland County Schools
+5187,260322,HLTH,1,1,Cumberland County Schools
+5188,260322,HOSP,1,1,Cumberland County Schools
+5189,260322,HUMA,32,1,Cumberland County Schools
+5190,260322,INFO,1,1,Cumberland County Schools
+5191,260322,LAW,2,1,Cumberland County Schools
+5192,260322,TRAN,8,1,Cumberland County Schools
+5248,260325,AAVC,9,0,Cumberland County Schools
+5249,260325,AGNR,40,0,Cumberland County Schools
+5250,260325,ARCH,6,0,Cumberland County Schools
+5251,260325,BMA,9,0,Cumberland County Schools
+5252,260325,HLTH,29,0,Cumberland County Schools
+5253,260325,HOSP,1,0,Cumberland County Schools
+5254,260325,HUMA,85,0,Cumberland County Schools
+5255,260325,INFO,3,0,Cumberland County Schools
+5256,260325,LAW,78,0,Cumberland County Schools
+5257,260325,STEM,12,0,Cumberland County Schools
+5258,260325,TRAN,4,0,Cumberland County Schools
+5315,260357,AAVC,5,0,Cumberland County Schools
+5316,260357,AGNR,17,0,Cumberland County Schools
+5317,260357,BMA,2,0,Cumberland County Schools
+5318,260357,HLTH,29,0,Cumberland County Schools
+5319,260357,HUMA,79,0,Cumberland County Schools
+5320,260357,INFO,14,0,Cumberland County Schools
+5321,260357,LAW,11,0,Cumberland County Schools
+5370,260359,AAVC,10,1,Cumberland County Schools
+5371,260359,BMA,7,1,Cumberland County Schools
+5372,260359,HLTH,1,1,Cumberland County Schools
+5373,260359,HOSP,10,1,Cumberland County Schools
+5374,260359,HUMA,17,1,Cumberland County Schools
+5375,260359,INFO,3,1,Cumberland County Schools
+5376,260359,LAW,77,1,Cumberland County Schools
+5377,260359,TRAN,4,1,Cumberland County Schools
+5416,260374,BMA,1,0,Cumberland County Schools
+5417,260374,LAW,1,0,Cumberland County Schools
+5440,260388,BMA,1,0,Cumberland County Schools
+5441,260388,HLTH,1,0,Cumberland County Schools
+5442,260388,LAW,2,0,Cumberland County Schools
+5495,260408,AAVC,22,0,Cumberland County Schools
+5496,260408,AGNR,15,0,Cumberland County Schools
+5497,260408,ARCH,23,0,Cumberland County Schools
+5498,260408,BMA,3,0,Cumberland County Schools
+5499,260408,HLTH,25,0,Cumberland County Schools
+5500,260408,HOSP,15,0,Cumberland County Schools
+5501,260408,HUMA,39,0,Cumberland County Schools
+5502,260408,INFO,8,0,Cumberland County Schools
+5503,260408,LAW,72,0,Cumberland County Schools
+5504,260408,MRKT,12,0,Cumberland County Schools
+5543,260411,AAVC,4,0,Cumberland County Schools
+5544,260411,BMA,1,0,Cumberland County Schools
+5545,260411,HLTH,1,0,Cumberland County Schools
+5546,260411,HOSP,1,0,Cumberland County Schools
+5547,260411,HUMA,3,0,Cumberland County Schools
+5548,260411,INFO,2,0,Cumberland County Schools
+5608,260424,AAVC,14,0,Cumberland County Schools
+5609,260424,AGNR,21,0,Cumberland County Schools
+5610,260424,ARCH,7,0,Cumberland County Schools
+5611,260424,BMA,2,0,Cumberland County Schools
+5612,260424,HLTH,4,0,Cumberland County Schools
+5613,260424,HOSP,5,0,Cumberland County Schools
+5614,260424,HUMA,82,0,Cumberland County Schools
+5615,260424,INFO,5,0,Cumberland County Schools
+5616,260424,LAW,65,0,Cumberland County Schools
+5617,260424,MANU,11,0,Cumberland County Schools
+5618,260424,MRKT,12,0,Cumberland County Schools
+5677,260427,AAVC,28,0,Cumberland County Schools
+5678,260427,AGNR,4,0,Cumberland County Schools
+5679,260427,ARCH,30,0,Cumberland County Schools
+5680,260427,BMA,1,0,Cumberland County Schools
+5681,260427,HLTH,40,0,Cumberland County Schools
+5682,260427,HOSP,10,0,Cumberland County Schools
+5683,260427,HUMA,34,0,Cumberland County Schools
+5684,260427,LAW,68,0,Cumberland County Schools
+5685,260427,STEM,31,0,Cumberland County Schools
+5742,260446,AAVC,6,0,Cumberland County Schools
+5743,260446,ARCH,1,0,Cumberland County Schools
+5744,260446,BMA,1,0,Cumberland County Schools
+5745,260446,HLTH,10,0,Cumberland County Schools
+5746,260446,HOSP,44,0,Cumberland County Schools
+5747,260446,HUMA,25,0,Cumberland County Schools
+5748,260446,LAW,46,0,Cumberland County Schools
+5832,260455,AAVC,1,1,Cumberland County Schools
+5833,260455,BMA,1,1,Cumberland County Schools
+5834,260455,HLTH,16,1,Cumberland County Schools
+5835,260455,HUMA,18,1,Cumberland County Schools
+5836,260455,LAW,72,1,Cumberland County Schools
+5837,260455,MRKT,12,1,Cumberland County Schools
+5838,260455,STEM,13,1,Cumberland County Schools
+5839,260455,TRAN,8,1,Cumberland County Schools
+5881,260700,AAVC,7,0,Cumberland County Schools
+5882,260700,BMA,7,0,Cumberland County Schools
+5883,260700,EDUC,1,0,Cumberland County Schools
+5884,260700,HLTH,2,0,Cumberland County Schools
+5885,260700,HOSP,1,0,Cumberland County Schools
+5886,260700,HUMA,4,0,Cumberland County Schools
+5887,260700,INFO,3,0,Cumberland County Schools
+5888,260700,LAW,8,0,Cumberland County Schools
+5889,260700,MANU,1,0,Cumberland County Schools
+5890,260700,TRAN,1,0,Cumberland County Schools
+5948,270306,AAVC,18,0,Currituck County Schools
+5949,270306,AGNR,30,0,Currituck County Schools
+5950,270306,ARCH,6,0,Currituck County Schools
+5951,270306,HLTH,14,0,Currituck County Schools
+5952,270306,HOSP,14,0,Currituck County Schools
+5953,270306,HUMA,36,0,Currituck County Schools
+5954,270306,LAW,22,0,Currituck County Schools
+5955,270306,TRAN,8,0,Currituck County Schools
+5990,270311,EDUC,1,0,Currituck County Schools
+5991,270311,MANU,3,0,Currituck County Schools
+6030,280304,AGNR,4,0,Dare County Schools
+6031,280304,ARCH,3,0,Dare County Schools
+6032,280304,HUMA,25,0,Dare County Schools
+6033,280304,LAW,1,0,Dare County Schools
+6093,280316,AAVC,4,0,Dare County Schools
+6094,280316,ARCH,1,0,Dare County Schools
+6095,280316,HOSP,8,0,Dare County Schools
+6096,280316,HUMA,38,0,Dare County Schools
+6097,280316,MANU,3,0,Dare County Schools
+6137,280330,AAVC,14,0,Dare County Schools
+6138,280330,ARCH,10,0,Dare County Schools
+6139,280330,HLTH,14,0,Dare County Schools
+6140,280330,HOSP,8,0,Dare County Schools
+6141,280330,INFO,1,0,Dare County Schools
+6142,280330,MANU,2,0,Dare County Schools
+6198,290308,AAVC,14,0,Davidson County Schools
+6199,290308,AGNR,8,0,Davidson County Schools
+6200,290308,ARCH,47,0,Davidson County Schools
+6201,290308,FINA,9,0,Davidson County Schools
+6202,290308,HLTH,41,0,Davidson County Schools
+6203,290308,HUMA,29,0,Davidson County Schools
+6204,290308,LAW,3,0,Davidson County Schools
+6205,290308,MANU,2,0,Davidson County Schools
+6206,290308,STEM,29,0,Davidson County Schools
+6252,290314,AGNR,3,1,Davidson County Schools
+6304,290324,AAVC,9,0,Davidson County Schools
+6305,290324,AGNR,17,0,Davidson County Schools
+6306,290324,ARCH,22,0,Davidson County Schools
+6307,290324,EDUC,1,0,Davidson County Schools
+6308,290324,FINA,6,0,Davidson County Schools
+6309,290324,HLTH,39,0,Davidson County Schools
+6310,290324,HOSP,8,0,Davidson County Schools
+6311,290324,HUMA,44,0,Davidson County Schools
+6312,290324,LAW,2,0,Davidson County Schools
+6313,290324,MANU,12,0,Davidson County Schools
+6314,290324,STEM,7,0,Davidson County Schools
+6315,290324,TRAN,2,0,Davidson County Schools
+6365,290336,AGNR,12,0,Davidson County Schools
+6366,290336,ARCH,32,0,Davidson County Schools
+6367,290336,HLTH,30,0,Davidson County Schools
+6368,290336,HUMA,39,0,Davidson County Schools
+6369,290336,LAW,3,0,Davidson County Schools
+6370,290336,MANU,1,0,Davidson County Schools
+6371,290336,STEM,19,0,Davidson County Schools
+6428,290348,AAVC,12,0,Davidson County Schools
+6429,290348,AGNR,69,0,Davidson County Schools
+6430,290348,ARCH,36,0,Davidson County Schools
+6431,290348,HLTH,37,0,Davidson County Schools
+6432,290348,HOSP,12,0,Davidson County Schools
+6433,290348,HUMA,31,0,Davidson County Schools
+6434,290348,INFO,2,0,Davidson County Schools
+6435,290348,LAW,2,0,Davidson County Schools
+6436,290348,TRAN,2,0,Davidson County Schools
+6483,290365,AGNR,45,0,Davidson County Schools
+6484,290365,ARCH,9,0,Davidson County Schools
+6485,290365,HLTH,18,0,Davidson County Schools
+6486,290365,HUMA,17,0,Davidson County Schools
+6487,290365,LAW,3,0,Davidson County Schools
+6531,290388,AAVC,14,0,Davidson County Schools
+6532,290388,AGNR,33,0,Davidson County Schools
+6533,290388,HLTH,31,0,Davidson County Schools
+6534,290388,HUMA,61,0,Davidson County Schools
+6535,290388,LAW,1,0,Davidson County Schools
+6590,290389,ARCH,3,0,Davidson County Schools
+6591,290389,BMA,1,0,Davidson County Schools
+6592,290389,HLTH,5,0,Davidson County Schools
+6593,290389,INFO,4,0,Davidson County Schools
+6594,290389,LAW,2,0,Davidson County Schools
+6595,290389,MANU,6,0,Davidson County Schools
+6596,290389,STEM,6,0,Davidson County Schools
+6597,290389,TRAN,4,0,Davidson County Schools
+6645,291336,AAVC,32,0,Lexington City Schools
+6646,291336,ARCH,9,0,Lexington City Schools
+6647,291336,HLTH,28,0,Lexington City Schools
+6648,291336,HOSP,1,0,Lexington City Schools
+6649,291336,HUMA,90,0,Lexington City Schools
+6650,291336,LAW,35,0,Lexington City Schools
+6651,291336,STEM,1,0,Lexington City Schools
+6652,291336,TRAN,1,0,Lexington City Schools
+6701,292324,ARCH,11,1,Thomasville City Schools
+6702,292324,BMA,19,1,Thomasville City Schools
+6703,292324,HLTH,20,1,Thomasville City Schools
+6704,292324,HOSP,13,1,Thomasville City Schools
+6705,292324,MANU,11,1,Thomasville City Schools
+6728,298202,AAVC,1,0,Deaf and Blind Schools
+6747,298204,ARCH,1,0,Deaf and Blind Schools
+6748,298204,BMA,2,0,Deaf and Blind Schools
+6749,298204,STEM,1,0,Deaf and Blind Schools
+6804,300312,AAVC,46,0,Davie County Schools
+6805,300312,AGNR,10,0,Davie County Schools
+6806,300312,ARCH,47,0,Davie County Schools
+6807,300312,HLTH,28,0,Davie County Schools
+6808,300312,HOSP,15,0,Davie County Schools
+6809,300312,HUMA,25,0,Davie County Schools
+6810,300312,STEM,40,0,Davie County Schools
+6811,300312,TRAN,14,0,Davie County Schools
+6847,310338,ARCH,1,1,Duplin County Schools
+6848,310338,LAW,1,1,Duplin County Schools
+6849,310338,MANU,3,1,Duplin County Schools
+6892,310344,AGNR,51,1,Duplin County Schools
+6893,310344,HLTH,31,1,Duplin County Schools
+6894,310344,HUMA,11,1,Duplin County Schools
+6895,310344,MANU,5,1,Duplin County Schools
+6896,310344,STEM,59,1,Duplin County Schools
+6897,310344,TRAN,15,1,Duplin County Schools
+6946,310352,AGNR,3,1,Duplin County Schools
+6947,310352,ARCH,18,1,Duplin County Schools
+6948,310352,BMA,1,1,Duplin County Schools
+6949,310352,HLTH,24,1,Duplin County Schools
+6950,310352,HUMA,31,1,Duplin County Schools
+6951,310352,MANU,1,1,Duplin County Schools
+6952,310352,TRAN,5,1,Duplin County Schools
+6994,310364,AGNR,18,1,Duplin County Schools
+6995,310364,HLTH,25,1,Duplin County Schools
+6996,310364,HUMA,21,1,Duplin County Schools
+6997,310364,LAW,2,1,Duplin County Schools
+6998,310364,MANU,1,1,Duplin County Schools
+6999,310364,TRAN,14,1,Duplin County Schools
+7043,310392,AGNR,22,1,Duplin County Schools
+7044,310392,ARCH,35,1,Duplin County Schools
+7045,310392,BMA,13,1,Duplin County Schools
+7046,310392,HLTH,41,1,Duplin County Schools
+7047,310392,LAW,1,1,Duplin County Schools
+7048,310392,MANU,3,1,Duplin County Schools
+7049,310392,TRAN,9,1,Duplin County Schools
+7094,320312,AGNR,61,0,Durham Public Schools
+7095,320312,ARCH,24,0,Durham Public Schools
+7096,320312,BMA,8,0,Durham Public Schools
+7097,320312,HLTH,1,0,Durham Public Schools
+7098,320312,HOSP,44,0,Durham Public Schools
+7099,320312,HUMA,3,0,Durham Public Schools
+7125,320317,HLTH,67,0,Durham Public Schools
+7126,320317,LAW,16,0,Durham Public Schools
+7157,320322,BMA,3,0,Durham Public Schools
+7158,320322,HUMA,5,0,Durham Public Schools
+7180,320323,AAVC,75,0,Durham Public Schools
+7216,320325,ARCH,4,0,Durham Public Schools
+7217,320325,HUMA,5,0,Durham Public Schools
+7218,320325,INFO,11,0,Durham Public Schools
+7219,320325,MRKT,2,0,Durham Public Schools
+7264,320353,ARCH,1,0,Durham Public Schools
+7265,320353,FINA,1,0,Durham Public Schools
+7266,320353,INFO,1,0,Durham Public Schools
+7306,320356,AGNR,47,0,Durham Public Schools
+7307,320356,EDUC,1,0,Durham Public Schools
+7308,320356,HOSP,52,0,Durham Public Schools
+7309,320356,LAW,19,0,Durham Public Schools
+7310,320356,TRAN,2,0,Durham Public Schools
+7353,320365,AAVC,9,0,Durham Public Schools
+7354,320365,AGNR,8,0,Durham Public Schools
+7355,320365,BMA,8,0,Durham Public Schools
+7356,320365,FINA,6,0,Durham Public Schools
+7357,320365,HOSP,5,0,Durham Public Schools
+7358,320365,HUMA,13,0,Durham Public Schools
+7359,320365,STEM,87,0,Durham Public Schools
+7413,320368,ARCH,27,0,Durham Public Schools
+7414,320368,BMA,16,0,Durham Public Schools
+7415,320368,FINA,15,0,Durham Public Schools
+7416,320368,HLTH,29,0,Durham Public Schools
+7417,320368,HUMA,5,0,Durham Public Schools
+7418,320368,MRKT,10,0,Durham Public Schools
+7419,320368,STEM,12,0,Durham Public Schools
+7420,320368,TRAN,12,0,Durham Public Schools
+7454,320701,AAVC,35,0,Durham Public Schools
+7455,320701,INFO,7,0,Durham Public Schools
+7456,320701,STEM,8,0,Durham Public Schools
+7485,32L000,HOSP,9,1,Charter Schools
+7534,330328,AGNR,19,1,Edgecombe County Public School
+7535,330328,EDUC,4,1,Edgecombe County Public School
+7536,330328,HLTH,5,1,Edgecombe County Public School
+7537,330328,HUMA,5,1,Edgecombe County Public School
+7588,330350,AGNR,20,0,Edgecombe County Public School
+7589,330350,HLTH,15,0,Edgecombe County Public School
+7590,330350,HUMA,45,0,Edgecombe County Public School
+7591,330350,MANU,6,0,Edgecombe County Public School
+7639,330358,BMA,15,0,Edgecombe County Public School
+7640,330358,FINA,1,0,Edgecombe County Public School
+7641,330358,HLTH,10,0,Edgecombe County Public School
+7642,330358,HOSP,31,0,Edgecombe County Public School
+7643,330358,HUMA,34,0,Edgecombe County Public School
+7644,330358,INFO,5,0,Edgecombe County Public School
+7679,33A000,AGNR,4,1,Charter Schools
+7718,340311,AAVC,122,0,Forsyth County Schools
+7719,340311,ARCH,1,0,Forsyth County Schools
+7720,340311,HLTH,104,0,Forsyth County Schools
+7721,340311,HUMA,13,0,Forsyth County Schools
+7722,340311,INFO,12,0,Forsyth County Schools
+7723,340311,STEM,96,0,Forsyth County Schools
+7724,340311,TRAN,5,0,Forsyth County Schools
+7765,340330,AAVC,1,1,Forsyth County Schools
+7766,340330,ARCH,3,1,Forsyth County Schools
+7767,340330,HLTH,2,1,Forsyth County Schools
+7768,340330,HOSP,2,1,Forsyth County Schools
+7769,340330,HUMA,13,1,Forsyth County Schools
+7770,340330,INFO,11,1,Forsyth County Schools
+7840,340364,AAVC,12,0,Forsyth County Schools
+7841,340364,ARCH,20,0,Forsyth County Schools
+7842,340364,HLTH,38,0,Forsyth County Schools
+7843,340364,HOSP,20,0,Forsyth County Schools
+7844,340364,HUMA,17,0,Forsyth County Schools
+7845,340364,STEM,27,0,Forsyth County Schools
+7846,340364,TRAN,4,0,Forsyth County Schools
+7902,340382,AAVC,9,1,Forsyth County Schools
+7903,340382,ARCH,7,1,Forsyth County Schools
+7904,340382,HLTH,24,1,Forsyth County Schools
+7905,340382,HOSP,20,1,Forsyth County Schools
+7906,340382,HUMA,27,1,Forsyth County Schools
+7907,340382,LAW,4,1,Forsyth County Schools
+7908,340382,STEM,10,1,Forsyth County Schools
+7909,340382,TRAN,2,1,Forsyth County Schools
+7962,340454,AAVC,17,0,Forsyth County Schools
+7963,340454,ARCH,19,0,Forsyth County Schools
+7964,340454,FINA,2,0,Forsyth County Schools
+7965,340454,HLTH,11,0,Forsyth County Schools
+7966,340454,HOSP,26,0,Forsyth County Schools
+7967,340454,HUMA,30,0,Forsyth County Schools
+7968,340454,INFO,1,0,Forsyth County Schools
+7969,340454,STEM,17,0,Forsyth County Schools
+7970,340454,TRAN,8,0,Forsyth County Schools
+8027,340460,AAVC,4,1,Forsyth County Schools
+8028,340460,AGNR,17,1,Forsyth County Schools
+8029,340460,BMA,4,1,Forsyth County Schools
+8030,340460,HLTH,22,1,Forsyth County Schools
+8031,340460,HOSP,8,1,Forsyth County Schools
+8032,340460,HUMA,22,1,Forsyth County Schools
+8033,340460,STEM,17,1,Forsyth County Schools
+8034,340460,TRAN,2,1,Forsyth County Schools
+8084,340486,AAVC,1,1,Forsyth County Schools
+8085,340486,ARCH,3,1,Forsyth County Schools
+8086,340486,HLTH,9,1,Forsyth County Schools
+8087,340486,HOSP,6,1,Forsyth County Schools
+8088,340486,HUMA,35,1,Forsyth County Schools
+8089,340486,STEM,60,1,Forsyth County Schools
+8090,340486,TRAN,3,1,Forsyth County Schools
+8135,340488,AAVC,2,1,Forsyth County Schools
+8136,340488,ARCH,35,1,Forsyth County Schools
+8137,340488,HLTH,7,1,Forsyth County Schools
+8138,340488,HUMA,11,1,Forsyth County Schools
+8139,340488,TRAN,3,1,Forsyth County Schools
+8197,340495,AAVC,10,0,Forsyth County Schools
+8198,340495,AGNR,4,0,Forsyth County Schools
+8199,340495,ARCH,28,0,Forsyth County Schools
+8200,340495,BMA,3,0,Forsyth County Schools
+8201,340495,FINA,8,0,Forsyth County Schools
+8202,340495,HLTH,42,0,Forsyth County Schools
+8203,340495,HOSP,10,0,Forsyth County Schools
+8204,340495,HUMA,5,0,Forsyth County Schools
+8205,340495,INFO,7,0,Forsyth County Schools
+8206,340495,STEM,44,0,Forsyth County Schools
+8207,340495,TRAN,14,0,Forsyth County Schools
+8266,340496,AAVC,11,1,Forsyth County Schools
+8267,340496,ARCH,15,1,Forsyth County Schools
+8268,340496,BMA,2,1,Forsyth County Schools
+8269,340496,FINA,1,1,Forsyth County Schools
+8270,340496,HLTH,21,1,Forsyth County Schools
+8271,340496,HOSP,28,1,Forsyth County Schools
+8272,340496,HUMA,27,1,Forsyth County Schools
+8273,340496,INFO,5,1,Forsyth County Schools
+8274,340496,STEM,12,1,Forsyth County Schools
+8275,340496,TRAN,6,1,Forsyth County Schools
+8325,340542,AAVC,3,0,Forsyth County Schools
+8326,340542,HLTH,40,0,Forsyth County Schools
+8327,340542,HOSP,1,0,Forsyth County Schools
+8328,340542,HUMA,20,0,Forsyth County Schools
+8329,340542,INFO,1,0,Forsyth County Schools
+8330,340542,LAW,9,0,Forsyth County Schools
+8331,340542,STEM,6,0,Forsyth County Schools
+8332,340542,TRAN,3,0,Forsyth County Schools
+8389,340556,AAVC,19,0,Forsyth County Schools
+8390,340556,ARCH,35,0,Forsyth County Schools
+8391,340556,HLTH,28,0,Forsyth County Schools
+8392,340556,HOSP,41,0,Forsyth County Schools
+8393,340556,HUMA,51,0,Forsyth County Schools
+8394,340556,INFO,4,0,Forsyth County Schools
+8395,340556,STEM,27,0,Forsyth County Schools
+8396,340556,TRAN,17,0,Forsyth County Schools
+8433,340568,HLTH,2,1,Forsyth County Schools
+8434,340568,HUMA,1,1,Forsyth County Schools
+8495,350308,AAVC,11,0,Franklin County Schools
+8496,350308,AGNR,8,0,Franklin County Schools
+8497,350308,ARCH,27,0,Franklin County Schools
+8498,350308,BMA,11,0,Franklin County Schools
+8499,350308,HLTH,27,0,Franklin County Schools
+8500,350308,HOSP,2,0,Franklin County Schools
+8501,350308,HUMA,15,0,Franklin County Schools
+8502,350308,LAW,16,0,Franklin County Schools
+8556,350321,AAVC,18,0,Franklin County Schools
+8557,350321,AGNR,30,0,Franklin County Schools
+8558,350321,ARCH,26,0,Franklin County Schools
+8559,350321,HOSP,23,0,Franklin County Schools
+8560,350321,HUMA,2,0,Franklin County Schools
+8561,350321,LAW,18,0,Franklin County Schools
+8606,350336,AGNR,4,0,Franklin County Schools
+8607,350336,ARCH,1,0,Franklin County Schools
+8608,350336,HLTH,14,0,Franklin County Schools
+8609,350336,HUMA,23,0,Franklin County Schools
+8610,350336,LAW,12,0,Franklin County Schools
+8611,350336,TRAN,10,0,Franklin County Schools
+8659,360310,AAVC,34,0,Gaston County Schools
+8660,360310,BMA,25,0,Gaston County Schools
+8661,360310,FINA,10,0,Gaston County Schools
+8662,360310,HLTH,12,0,Gaston County Schools
+8663,360310,HOSP,6,0,Gaston County Schools
+8664,360310,HUMA,47,0,Gaston County Schools
+8665,360310,LAW,5,0,Gaston County Schools
+8666,360310,MRKT,19,0,Gaston County Schools
+8667,360310,TRAN,12,0,Gaston County Schools
+8714,360336,AAVC,15,0,Gaston County Schools
+8715,360336,ARCH,8,0,Gaston County Schools
+8716,360336,HLTH,18,0,Gaston County Schools
+8717,360336,MANU,7,0,Gaston County Schools
+8768,360360,AAVC,4,0,Gaston County Schools
+8769,360360,ARCH,18,0,Gaston County Schools
+8770,360360,BMA,5,0,Gaston County Schools
+8771,360360,HLTH,21,0,Gaston County Schools
+8772,360360,HUMA,18,0,Gaston County Schools
+8773,360360,LAW,16,0,Gaston County Schools
+8774,360360,MANU,2,0,Gaston County Schools
+8828,360378,AAVC,17,0,Gaston County Schools
+8829,360378,BMA,17,0,Gaston County Schools
+8830,360378,HLTH,21,0,Gaston County Schools
+8831,360378,HOSP,8,0,Gaston County Schools
+8832,360378,HUMA,2,0,Gaston County Schools
+8833,360378,LAW,8,0,Gaston County Schools
+8834,360378,MANU,17,0,Gaston County Schools
+8835,360378,STEM,21,0,Gaston County Schools
+8882,360390,ARCH,14,0,Gaston County Schools
+8883,360390,HLTH,17,0,Gaston County Schools
+8884,360390,HUMA,44,0,Gaston County Schools
+8885,360390,TRAN,6,0,Gaston County Schools
+8931,360396,ARCH,4,0,Gaston County Schools
+8932,360396,HLTH,18,0,Gaston County Schools
+8933,360396,HUMA,43,0,Gaston County Schools
+8934,360396,MANU,1,0,Gaston County Schools
+8982,360418,AAVC,19,0,Gaston County Schools
+8983,360418,BMA,100,0,Gaston County Schools
+8984,360418,FINA,22,0,Gaston County Schools
+8985,360418,HLTH,42,0,Gaston County Schools
+8986,360418,INFO,23,0,Gaston County Schools
+8987,360418,LAW,5,0,Gaston County Schools
+8988,360418,STEM,37,0,Gaston County Schools
+9038,360428,AAVC,4,0,Gaston County Schools
+9039,360428,ARCH,3,0,Gaston County Schools
+9040,360428,HLTH,16,0,Gaston County Schools
+9041,360428,HUMA,65,0,Gaston County Schools
+9042,360428,LAW,32,0,Gaston County Schools
+9043,360428,MANU,15,0,Gaston County Schools
+9096,360470,AAVC,38,0,Gaston County Schools
+9097,360470,ARCH,14,0,Gaston County Schools
+9098,360470,HLTH,17,0,Gaston County Schools
+9099,360470,HUMA,26,0,Gaston County Schools
+9100,360470,TRAN,14,0,Gaston County Schools
+9147,360494,AAVC,16,0,Gaston County Schools
+9148,360494,ARCH,46,0,Gaston County Schools
+9149,360494,HLTH,10,0,Gaston County Schools
+9150,360494,HOSP,14,0,Gaston County Schools
+9151,360494,HUMA,6,0,Gaston County Schools
+9152,360494,INFO,1,0,Gaston County Schools
+9153,360494,MANU,1,0,Gaston County Schools
+9178,36B000,HLTH,6,1,Charter Schools
+9207,36C000,AAVC,3,1,Charter Schools
+9208,36C000,BMA,2,1,Charter Schools
+9209,36C000,INFO,1,1,Charter Schools
+9244,370312,AGNR,10,0,Gates County Schools
+9245,370312,HLTH,12,0,Gates County Schools
+9246,370312,HOSP,2,0,Gates County Schools
+9247,370312,HUMA,24,0,Gates County Schools
+9248,370312,MANU,1,0,Gates County Schools
+9249,370312,STEM,16,0,Gates County Schools
+9295,380308,ARCH,11,0,Graham County Schools
+9296,380308,FINA,1,0,Graham County Schools
+9297,380308,HLTH,13,0,Graham County Schools
+9298,380308,HOSP,1,0,Graham County Schools
+9299,380308,HUMA,2,0,Graham County Schools
+9300,380308,TRAN,5,0,Graham County Schools
+9344,390322,AAVC,33,0,Granville County Schools
+9345,390322,AGNR,45,0,Granville County Schools
+9346,390322,BMA,8,0,Granville County Schools
+9347,390322,HUMA,9,0,Granville County Schools
+9348,390322,STEM,13,0,Granville County Schools
+9391,390324,AGNR,34,0,Granville County Schools
+9392,390324,ARCH,10,0,Granville County Schools
+9393,390324,BMA,2,0,Granville County Schools
+9394,390324,HLTH,11,0,Granville County Schools
+9395,390324,HOSP,8,0,Granville County Schools
+9396,390324,HUMA,6,0,Granville County Schools
+9397,390324,TRAN,4,0,Granville County Schools
+9452,400308,AAVC,4,0,Greene County Schools
+9453,400308,AGNR,10,0,Greene County Schools
+9454,400308,ARCH,9,0,Greene County Schools
+9455,400308,BMA,1,0,Greene County Schools
+9456,400308,HLTH,26,0,Greene County Schools
+9457,400308,HOSP,15,0,Greene County Schools
+9458,400308,HUMA,8,0,Greene County Schools
+9459,400308,MANU,10,0,Greene County Schools
+9460,400308,STEM,1,0,Greene County Schools
+9461,400308,TRAN,5,0,Greene County Schools
+9516,410319,AAVC,16,1,Guilford County Schools
+9517,410319,ARCH,10,1,Guilford County Schools
+9518,410319,BMA,3,1,Guilford County Schools
+9519,410319,HLTH,29,1,Guilford County Schools
+9520,410319,HOSP,5,1,Guilford County Schools
+9521,410319,HUMA,12,1,Guilford County Schools
+9522,410319,INFO,4,1,Guilford County Schools
+9523,410319,TRAN,28,1,Guilford County Schools
+9574,410355,BMA,5,1,Guilford County Schools
+9575,410355,HLTH,58,1,Guilford County Schools
+9576,410355,HOSP,1,1,Guilford County Schools
+9577,410355,HUMA,27,1,Guilford County Schools
+9578,410355,STEM,68,1,Guilford County Schools
+9579,410355,TRAN,10,1,Guilford County Schools
+9639,410358,AAVC,41,1,Guilford County Schools
+9640,410358,AGNR,7,1,Guilford County Schools
+9641,410358,ARCH,23,1,Guilford County Schools
+9642,410358,BMA,4,1,Guilford County Schools
+9643,410358,FINA,15,1,Guilford County Schools
+9644,410358,HLTH,20,1,Guilford County Schools
+9645,410358,HOSP,2,1,Guilford County Schools
+9646,410358,INFO,7,1,Guilford County Schools
+9647,410358,LAW,1,1,Guilford County Schools
+9648,410358,STEM,14,1,Guilford County Schools
+9649,410358,TRAN,3,1,Guilford County Schools
+9705,410394,AAVC,2,0,Guilford County Schools
+9706,410394,ARCH,2,0,Guilford County Schools
+9707,410394,HLTH,32,0,Guilford County Schools
+9708,410394,HOSP,20,0,Guilford County Schools
+9709,410394,HUMA,6,0,Guilford County Schools
+9710,410394,TRAN,3,0,Guilford County Schools
+9746,410399,ARCH,1,0,Guilford County Schools
+9747,410399,BMA,2,0,Guilford County Schools
+9748,410399,HLTH,1,0,Guilford County Schools
+9749,410399,HUMA,1,0,Guilford County Schools
+9784,410401,HUMA,1,0,Guilford County Schools
+9785,410401,LAW,1,0,Guilford County Schools
+9786,410401,TRAN,1,0,Guilford County Schools
+9833,410406,AAVC,18,1,Guilford County Schools
+9834,410406,ARCH,18,1,Guilford County Schools
+9835,410406,BMA,19,1,Guilford County Schools
+9836,410406,HOSP,9,1,Guilford County Schools
+9837,410406,HUMA,21,1,Guilford County Schools
+9838,410406,INFO,34,1,Guilford County Schools
+9867,410407,INFO,7,1,Guilford County Schools
+9891,410408,TRAN,1,0,Guilford County Schools
+9914,410483,BMA,10,0,Guilford County Schools
+9915,410483,INFO,14,0,Guilford County Schools
+9964,410484,AAVC,1,1,Guilford County Schools
+9965,410484,ARCH,1,1,Guilford County Schools
+9966,410484,BMA,31,1,Guilford County Schools
+9967,410484,HLTH,15,1,Guilford County Schools
+9968,410484,HUMA,2,1,Guilford County Schools
+9969,410484,INFO,5,1,Guilford County Schools
+9970,410484,STEM,40,1,Guilford County Schools
+9971,410484,TRAN,3,1,Guilford County Schools
+10023,410489,AAVC,10,0,Guilford County Schools
+10024,410489,AGNR,1,0,Guilford County Schools
+10025,410489,ARCH,1,0,Guilford County Schools
+10026,410489,FINA,10,0,Guilford County Schools
+10027,410489,HLTH,23,0,Guilford County Schools
+10028,410489,HUMA,11,0,Guilford County Schools
+10029,410489,INFO,3,0,Guilford County Schools
+10030,410489,LAW,21,0,Guilford County Schools
+10031,410489,STEM,14,0,Guilford County Schools
+10032,410489,TRAN,3,0,Guilford County Schools
+10089,410490,AAVC,38,0,Guilford County Schools
+10090,410490,HLTH,41,0,Guilford County Schools
+10091,410490,HOSP,14,0,Guilford County Schools
+10092,410490,HUMA,12,0,Guilford County Schools
+10093,410490,INFO,2,0,Guilford County Schools
+10094,410490,MANU,1,0,Guilford County Schools
+10095,410490,STEM,38,0,Guilford County Schools
+10096,410490,TRAN,1,0,Guilford County Schools
+10150,410508,AAVC,11,0,Guilford County Schools
+10151,410508,ARCH,32,0,Guilford County Schools
+10152,410508,FINA,4,0,Guilford County Schools
+10153,410508,HLTH,15,0,Guilford County Schools
+10154,410508,TRAN,1,0,Guilford County Schools
+10208,410529,AAVC,5,1,Guilford County Schools
+10209,410529,ARCH,1,1,Guilford County Schools
+10210,410529,BMA,7,1,Guilford County Schools
+10211,410529,HLTH,33,1,Guilford County Schools
+10212,410529,HOSP,46,1,Guilford County Schools
+10213,410529,HUMA,13,1,Guilford County Schools
+10214,410529,INFO,10,1,Guilford County Schools
+10215,410529,STEM,78,1,Guilford County Schools
+10216,410529,TRAN,1,1,Guilford County Schools
+10279,410544,AAVC,19,1,Guilford County Schools
+10280,410544,BMA,15,1,Guilford County Schools
+10281,410544,EDUC,2,1,Guilford County Schools
+10282,410544,HOSP,12,1,Guilford County Schools
+10283,410544,HUMA,53,1,Guilford County Schools
+10284,410544,INFO,9,1,Guilford County Schools
+10285,410544,MANU,29,1,Guilford County Schools
+10286,410544,MRKT,6,1,Guilford County Schools
+10287,410544,STEM,92,1,Guilford County Schools
+10288,410544,TRAN,1,1,Guilford County Schools
+10325,410545,BMA,8,1,Guilford County Schools
+10326,410545,HLTH,21,1,Guilford County Schools
+10378,410547,AAVC,16,0,Guilford County Schools
+10379,410547,AGNR,72,0,Guilford County Schools
+10380,410547,ARCH,24,0,Guilford County Schools
+10381,410547,BMA,5,0,Guilford County Schools
+10382,410547,HLTH,36,0,Guilford County Schools
+10383,410547,HOSP,24,0,Guilford County Schools
+10384,410547,HUMA,17,0,Guilford County Schools
+10385,410547,MANU,1,0,Guilford County Schools
+10386,410547,STEM,24,0,Guilford County Schools
+10387,410547,TRAN,4,0,Guilford County Schools
+10446,410556,AAVC,12,1,Guilford County Schools
+10447,410556,AGNR,30,1,Guilford County Schools
+10448,410556,ARCH,2,1,Guilford County Schools
+10449,410556,BMA,1,1,Guilford County Schools
+10450,410556,HLTH,28,1,Guilford County Schools
+10451,410556,HUMA,7,1,Guilford County Schools
+10452,410556,INFO,1,1,Guilford County Schools
+10453,410556,STEM,38,1,Guilford County Schools
+10454,410556,TRAN,4,1,Guilford County Schools
+10512,410562,AAVC,38,0,Guilford County Schools
+10513,410562,ARCH,40,0,Guilford County Schools
+10514,410562,BMA,1,0,Guilford County Schools
+10515,410562,HLTH,56,0,Guilford County Schools
+10516,410562,HOSP,8,0,Guilford County Schools
+10517,410562,HUMA,11,0,Guilford County Schools
+10518,410562,INFO,5,0,Guilford County Schools
+10519,410562,STEM,28,0,Guilford County Schools
+10570,410579,HLTH,25,0,Guilford County Schools
+10615,410595,AAVC,11,0,Guilford County Schools
+10616,410595,ARCH,2,0,Guilford County Schools
+10617,410595,HLTH,23,0,Guilford County Schools
+10618,410595,HOSP,2,0,Guilford County Schools
+10619,410595,INFO,5,0,Guilford County Schools
+10620,410595,MANU,1,0,Guilford County Schools
+10621,410595,TRAN,22,0,Guilford County Schools
+10663,420346,AGNR,14,1,Halifax County Schools
+10696,420358,AGNR,17,1,Halifax County Schools
+10697,420358,LAW,21,1,Halifax County Schools
+10743,421316,ARCH,27,0,Roanoke Rapids City Schools
+10744,421316,HLTH,31,0,Roanoke Rapids City Schools
+10745,421316,HOSP,14,0,Roanoke Rapids City Schools
+10746,421316,HUMA,11,0,Roanoke Rapids City Schools
+10747,421316,LAW,38,0,Roanoke Rapids City Schools
+10748,421316,TRAN,1,0,Roanoke Rapids City Schools
+10772,422310,BMA,16,1,Weldon City Schools
+10806,422315,AAVC,13,1,Weldon City Schools
+10807,422315,BMA,7,1,Weldon City Schools
+10808,422315,HUMA,13,1,Weldon City Schools
+10809,422315,MANU,19,1,Weldon City Schools
+10836,430345,AGNR,1,0,Harnett County Schools
+10837,430345,ARCH,1,0,Harnett County Schools
+10891,430346,AAVC,25,0,Harnett County Schools
+10892,430346,AGNR,43,0,Harnett County Schools
+10893,430346,ARCH,23,0,Harnett County Schools
+10894,430346,BMA,1,0,Harnett County Schools
+10895,430346,EDUC,9,0,Harnett County Schools
+10896,430346,HLTH,33,0,Harnett County Schools
+10897,430346,HUMA,53,0,Harnett County Schools
+10898,430346,LAW,12,0,Harnett County Schools
+10899,430346,MANU,29,0,Harnett County Schools
+10900,430346,TRAN,6,0,Harnett County Schools
+10961,430371,AAVC,34,0,Harnett County Schools
+10962,430371,AGNR,63,0,Harnett County Schools
+10963,430371,ARCH,39,0,Harnett County Schools
+10964,430371,HLTH,42,0,Harnett County Schools
+10965,430371,HOSP,19,0,Harnett County Schools
+10966,430371,HUMA,1,0,Harnett County Schools
+10967,430371,LAW,6,0,Harnett County Schools
+10968,430371,TRAN,11,0,Harnett County Schools
+11027,430378,AAVC,4,0,Harnett County Schools
+11028,430378,AGNR,80,0,Harnett County Schools
+11029,430378,ARCH,38,0,Harnett County Schools
+11030,430378,HLTH,66,0,Harnett County Schools
+11031,430378,HUMA,44,0,Harnett County Schools
+11032,430378,INFO,8,0,Harnett County Schools
+11033,430378,LAW,22,0,Harnett County Schools
+11034,430378,TRAN,9,0,Harnett County Schools
+11093,430384,AGNR,40,0,Harnett County Schools
+11094,430384,ARCH,30,0,Harnett County Schools
+11095,430384,BMA,1,0,Harnett County Schools
+11096,430384,FINA,2,0,Harnett County Schools
+11097,430384,HLTH,54,0,Harnett County Schools
+11098,430384,HUMA,26,0,Harnett County Schools
+11099,430384,INFO,3,0,Harnett County Schools
+11100,430384,LAW,7,0,Harnett County Schools
+11101,430384,MANU,11,0,Harnett County Schools
+11102,430384,TRAN,6,0,Harnett County Schools
+11145,440326,HLTH,1,0,Haywood County Schools
+11146,440326,TRAN,1,0,Haywood County Schools
+11199,440378,AAVC,10,0,Haywood County Schools
+11200,440378,AGNR,32,0,Haywood County Schools
+11201,440378,ARCH,18,0,Haywood County Schools
+11202,440378,HLTH,25,0,Haywood County Schools
+11203,440378,HOSP,16,0,Haywood County Schools
+11204,440378,INFO,5,0,Haywood County Schools
+11205,440378,MANU,70,0,Haywood County Schools
+11206,440378,MRKT,5,0,Haywood County Schools
+11207,440378,STEM,7,0,Haywood County Schools
+11208,440378,TRAN,11,0,Haywood County Schools
+11267,440390,AAVC,17,0,Haywood County Schools
+11268,440390,AGNR,31,0,Haywood County Schools
+11269,440390,ARCH,47,0,Haywood County Schools
+11270,440390,HLTH,64,0,Haywood County Schools
+11271,440390,INFO,10,0,Haywood County Schools
+11272,440390,LAW,1,0,Haywood County Schools
+11273,440390,MANU,19,0,Haywood County Schools
+11274,440390,STEM,11,0,Haywood County Schools
+11275,440390,TRAN,4,0,Haywood County Schools
+11336,450316,AAVC,10,0,Henderson County Schools
+11337,450316,AGNR,10,0,Henderson County Schools
+11338,450316,ARCH,27,0,Henderson County Schools
+11339,450316,BMA,5,0,Henderson County Schools
+11340,450316,FINA,12,0,Henderson County Schools
+11341,450316,HLTH,12,0,Henderson County Schools
+11342,450316,HUMA,31,0,Henderson County Schools
+11343,450316,INFO,1,0,Henderson County Schools
+11344,450316,STEM,9,0,Henderson County Schools
+11401,450334,AAVC,21,0,Henderson County Schools
+11402,450334,ARCH,4,0,Henderson County Schools
+11403,450334,HLTH,18,0,Henderson County Schools
+11404,450334,HOSP,3,0,Henderson County Schools
+11405,450334,HUMA,9,0,Henderson County Schools
+11406,450334,INFO,1,0,Henderson County Schools
+11407,450334,MANU,15,0,Henderson County Schools
+11459,450341,AAVC,12,0,Henderson County Schools
+11460,450341,AGNR,10,0,Henderson County Schools
+11461,450341,ARCH,17,0,Henderson County Schools
+11462,450341,HLTH,23,0,Henderson County Schools
+11463,450341,HOSP,10,0,Henderson County Schools
+11464,450341,HUMA,37,0,Henderson County Schools
+11465,450341,INFO,1,0,Henderson County Schools
+11466,450341,TRAN,9,0,Henderson County Schools
+11517,450343,LAW,2,0,Henderson County Schools
+11518,450343,MANU,7,0,Henderson County Schools
+11575,450352,AAVC,31,0,Henderson County Schools
+11576,450352,AGNR,18,0,Henderson County Schools
+11577,450352,ARCH,48,0,Henderson County Schools
+11578,450352,HLTH,18,0,Henderson County Schools
+11579,450352,HOSP,23,0,Henderson County Schools
+11580,450352,HUMA,31,0,Henderson County Schools
+11581,450352,LAW,2,0,Henderson County Schools
+11582,450352,MANU,13,0,Henderson County Schools
+11583,450352,STEM,7,0,Henderson County Schools
+11637,460320,AAVC,21,1,Hertford County Schools
+11638,460320,AGNR,13,1,Hertford County Schools
+11639,460320,BMA,13,1,Hertford County Schools
+11640,460320,HLTH,34,1,Hertford County Schools
+11641,460320,HOSP,32,1,Hertford County Schools
+11642,460320,LAW,2,1,Hertford County Schools
+11679,460340,BMA,16,1,Hertford County Schools
+11680,460340,HLTH,30,1,Hertford County Schools
+11737,470312,AAVC,6,0,Hoke County Schools
+11738,470312,AGNR,22,0,Hoke County Schools
+11739,470312,ARCH,2,0,Hoke County Schools
+11740,470312,HLTH,39,0,Hoke County Schools
+11741,470312,HOSP,3,0,Hoke County Schools
+11742,470312,HUMA,47,0,Hoke County Schools
+11743,470312,LAW,25,0,Hoke County Schools
+11744,470312,TRAN,10,0,Hoke County Schools
+11780,480316,ARCH,1,1,Hyde County Schools
+11781,480316,FINA,3,1,Hyde County Schools
+11808,480318,AGNR,2,1,Hyde County Schools
+11809,480318,BMA,5,1,Hyde County Schools
+11810,480318,HLTH,14,1,Hyde County Schools
+11811,480318,INFO,5,1,Hyde County Schools
+11852,490310,AAVC,1,0,Iredell-Statesville Schools
+11853,490310,HOSP,1,0,Iredell-Statesville Schools
+11854,490310,LAW,2,0,Iredell-Statesville Schools
+11855,490310,TRAN,5,0,Iredell-Statesville Schools
+11883,490320,AAVC,54,0,Iredell-Statesville Schools
+11884,490320,BMA,1,0,Iredell-Statesville Schools
+11885,490320,LAW,1,0,Iredell-Statesville Schools
+11886,490320,MANU,1,0,Iredell-Statesville Schools
+11887,490320,STEM,3,0,Iredell-Statesville Schools
+11944,490335,AGNR,33,0,Iredell-Statesville Schools
+11945,490335,ARCH,12,0,Iredell-Statesville Schools
+11946,490335,BMA,1,0,Iredell-Statesville Schools
+11947,490335,FINA,5,0,Iredell-Statesville Schools
+11948,490335,HLTH,22,0,Iredell-Statesville Schools
+11949,490335,HOSP,115,0,Iredell-Statesville Schools
+11950,490335,HUMA,10,0,Iredell-Statesville Schools
+11951,490335,INFO,4,0,Iredell-Statesville Schools
+11952,490335,LAW,6,0,Iredell-Statesville Schools
+11953,490335,MANU,7,0,Iredell-Statesville Schools
+11954,490335,STEM,9,0,Iredell-Statesville Schools
+11955,490335,TRAN,9,0,Iredell-Statesville Schools
+12014,490346,AAVC,11,0,Iredell-Statesville Schools
+12015,490346,AGNR,95,0,Iredell-Statesville Schools
+12016,490346,ARCH,8,0,Iredell-Statesville Schools
+12017,490346,HLTH,8,0,Iredell-Statesville Schools
+12018,490346,HUMA,50,0,Iredell-Statesville Schools
+12019,490346,INFO,2,0,Iredell-Statesville Schools
+12020,490346,LAW,1,0,Iredell-Statesville Schools
+12021,490346,STEM,8,0,Iredell-Statesville Schools
+12022,490346,TRAN,1,0,Iredell-Statesville Schools
+12084,490354,AGNR,26,0,Iredell-Statesville Schools
+12085,490354,ARCH,23,0,Iredell-Statesville Schools
+12086,490354,HLTH,52,0,Iredell-Statesville Schools
+12087,490354,HOSP,1,0,Iredell-Statesville Schools
+12088,490354,HUMA,40,0,Iredell-Statesville Schools
+12089,490354,LAW,1,0,Iredell-Statesville Schools
+12090,490354,MANU,2,0,Iredell-Statesville Schools
+12091,490354,STEM,10,0,Iredell-Statesville Schools
+12092,490354,TRAN,3,0,Iredell-Statesville Schools
+12124,490355,BMA,1,0,Iredell-Statesville Schools
+12125,490355,HUMA,1,0,Iredell-Statesville Schools
+12177,490362,AGNR,29,0,Iredell-Statesville Schools
+12178,490362,ARCH,14,0,Iredell-Statesville Schools
+12179,490362,BMA,7,0,Iredell-Statesville Schools
+12180,490362,FINA,2,0,Iredell-Statesville Schools
+12181,490362,HLTH,37,0,Iredell-Statesville Schools
+12182,490362,HOSP,24,0,Iredell-Statesville Schools
+12183,490362,HUMA,44,0,Iredell-Statesville Schools
+12184,490362,INFO,27,0,Iredell-Statesville Schools
+12185,490362,LAW,2,0,Iredell-Statesville Schools
+12186,490362,MANU,7,0,Iredell-Statesville Schools
+12187,490362,STEM,12,0,Iredell-Statesville Schools
+12188,490362,TRAN,7,0,Iredell-Statesville Schools
+12249,490380,AGNR,26,0,Iredell-Statesville Schools
+12250,490380,ARCH,1,0,Iredell-Statesville Schools
+12251,490380,HLTH,31,0,Iredell-Statesville Schools
+12252,490380,HOSP,1,0,Iredell-Statesville Schools
+12253,490380,HUMA,47,0,Iredell-Statesville Schools
+12254,490380,INFO,6,0,Iredell-Statesville Schools
+12255,490380,LAW,2,0,Iredell-Statesville Schools
+12256,490380,TRAN,12,0,Iredell-Statesville Schools
+12313,491312,AAVC,13,0,Mooresville City Schools
+12314,491312,ARCH,29,0,Mooresville City Schools
+12315,491312,HLTH,44,0,Mooresville City Schools
+12316,491312,HOSP,12,0,Mooresville City Schools
+12317,491312,HUMA,63,0,Mooresville City Schools
+12318,491312,INFO,1,0,Mooresville City Schools
+12319,491312,STEM,10,0,Mooresville City Schools
+12320,491312,TRAN,23,0,Mooresville City Schools
+12355,500302,AGNR,11,0,Jackson County Schools
+12356,500302,LAW,3,0,Jackson County Schools
+12386,500323,BMA,1,0,Jackson County Schools
+12387,500323,HOSP,1,0,Jackson County Schools
+12388,500323,TRAN,1,0,Jackson County Schools
+12417,500324,AGNR,1,0,Jackson County Schools
+12418,500324,ARCH,1,0,Jackson County Schools
+12419,500324,HUMA,1,0,Jackson County Schools
+12476,500340,AGNR,4,0,Jackson County Schools
+12477,500340,ARCH,1,0,Jackson County Schools
+12478,500340,FINA,1,0,Jackson County Schools
+12479,500340,HLTH,27,0,Jackson County Schools
+12480,500340,HOSP,3,0,Jackson County Schools
+12481,500340,HUMA,2,0,Jackson County Schools
+12482,500340,LAW,1,0,Jackson County Schools
+12483,500340,MANU,7,0,Jackson County Schools
+12484,500340,STEM,7,0,Jackson County Schools
+12485,500340,TRAN,2,0,Jackson County Schools
+12547,510324,AAVC,32,0,Johnston County Schools
+12548,510324,AGNR,89,0,Johnston County Schools
+12549,510324,ARCH,26,0,Johnston County Schools
+12550,510324,BMA,11,0,Johnston County Schools
+12551,510324,HLTH,66,0,Johnston County Schools
+12552,510324,HOSP,22,0,Johnston County Schools
+12553,510324,HUMA,45,0,Johnston County Schools
+12554,510324,INFO,2,0,Johnston County Schools
+12555,510324,LAW,16,0,Johnston County Schools
+12556,510324,STEM,16,0,Johnston County Schools
+12615,510327,AAVC,9,0,Johnston County Schools
+12616,510327,AGNR,44,0,Johnston County Schools
+12617,510327,ARCH,34,0,Johnston County Schools
+12618,510327,BMA,21,0,Johnston County Schools
+12619,510327,HLTH,64,0,Johnston County Schools
+12620,510327,HOSP,7,0,Johnston County Schools
+12621,510327,HUMA,43,0,Johnston County Schools
+12622,510327,LAW,1,0,Johnston County Schools
+12623,510327,STEM,7,0,Johnston County Schools
+12624,510327,TRAN,25,0,Johnston County Schools
+12685,510333,AAVC,31,0,Johnston County Schools
+12686,510333,AGNR,66,0,Johnston County Schools
+12687,510333,ARCH,6,0,Johnston County Schools
+12688,510333,BMA,1,0,Johnston County Schools
+12689,510333,HLTH,99,0,Johnston County Schools
+12690,510333,HOSP,21,0,Johnston County Schools
+12691,510333,HUMA,35,0,Johnston County Schools
+12692,510333,LAW,2,0,Johnston County Schools
+12693,510333,MRKT,23,0,Johnston County Schools
+12694,510333,TRAN,14,0,Johnston County Schools
+12727,510367,AGNR,1,0,Johnston County Schools
+12728,510367,BMA,4,0,Johnston County Schools
+12775,510368,AGNR,66,0,Johnston County Schools
+12776,510368,ARCH,1,0,Johnston County Schools
+12777,510368,HLTH,24,0,Johnston County Schools
+12778,510368,HOSP,5,0,Johnston County Schools
+12779,510368,HUMA,7,0,Johnston County Schools
+12780,510368,MRKT,14,0,Johnston County Schools
+12781,510368,TRAN,1,0,Johnston County Schools
+12829,510376,AGNR,46,0,Johnston County Schools
+12830,510376,BMA,1,0,Johnston County Schools
+12831,510376,HLTH,40,0,Johnston County Schools
+12832,510376,HUMA,38,0,Johnston County Schools
+12833,510376,LAW,4,0,Johnston County Schools
+12834,510376,TRAN,6,0,Johnston County Schools
+12889,510399,ARCH,9,1,Johnston County Schools
+12890,510399,HLTH,19,1,Johnston County Schools
+12891,510399,HOSP,1,1,Johnston County Schools
+12892,510399,HUMA,77,1,Johnston County Schools
+12893,510399,LAW,7,1,Johnston County Schools
+12894,510399,STEM,13,1,Johnston County Schools
+12895,510399,TRAN,1,1,Johnston County Schools
+12947,510402,AAVC,13,0,Johnston County Schools
+12948,510402,AGNR,91,0,Johnston County Schools
+12949,510402,ARCH,1,0,Johnston County Schools
+12950,510402,HLTH,65,0,Johnston County Schools
+12951,510402,HUMA,38,0,Johnston County Schools
+13012,510406,AGNR,67,0,Johnston County Schools
+13013,510406,ARCH,40,0,Johnston County Schools
+13014,510406,FINA,5,0,Johnston County Schools
+13015,510406,HLTH,49,0,Johnston County Schools
+13016,510406,HOSP,26,0,Johnston County Schools
+13017,510406,HUMA,24,0,Johnston County Schools
+13018,510406,INFO,6,0,Johnston County Schools
+13019,510406,LAW,1,0,Johnston County Schools
+13081,530335,AAVC,1,0,Lee County Schools
+13082,530335,BMA,12,0,Lee County Schools
+13083,530335,FINA,1,0,Lee County Schools
+13084,530335,HLTH,1,0,Lee County Schools
+13085,530335,HOSP,1,0,Lee County Schools
+13086,530335,HUMA,1,0,Lee County Schools
+13087,530335,INFO,2,0,Lee County Schools
+13088,530335,MANU,4,0,Lee County Schools
+13154,530336,AAVC,22,0,Lee County Schools
+13155,530336,AGNR,13,0,Lee County Schools
+13156,530336,ARCH,35,0,Lee County Schools
+13157,530336,HLTH,26,0,Lee County Schools
+13158,530336,HOSP,7,0,Lee County Schools
+13159,530336,HUMA,36,0,Lee County Schools
+13160,530336,MANU,14,0,Lee County Schools
+13161,530336,STEM,31,0,Lee County Schools
+13162,530336,TRAN,4,0,Lee County Schools
+13224,530343,AGNR,5,0,Lee County Schools
+13225,530343,ARCH,24,0,Lee County Schools
+13226,530343,HLTH,23,0,Lee County Schools
+13227,530343,HOSP,14,0,Lee County Schools
+13228,530343,HUMA,12,0,Lee County Schools
+13229,530343,LAW,1,0,Lee County Schools
+13230,530343,MANU,8,0,Lee County Schools
+13231,530343,STEM,40,0,Lee County Schools
+13286,540315,ARCH,7,1,Lenoir County Public Schools
+13287,540315,HLTH,9,1,Lenoir County Public Schools
+13288,540315,HOSP,32,1,Lenoir County Public Schools
+13289,540315,HUMA,45,1,Lenoir County Public Schools
+13290,540315,MANU,1,1,Lenoir County Public Schools
+13291,540315,STEM,20,1,Lenoir County Public Schools
+13292,540315,TRAN,7,1,Lenoir County Public Schools
+13323,540317,AAVC,1,0,Lenoir County Public Schools
+13324,540317,BMA,2,0,Lenoir County Public Schools
+13325,540317,HUMA,1,0,Lenoir County Public Schools
+13326,540317,TRAN,2,0,Lenoir County Public Schools
+13382,540324,AAVC,2,1,Lenoir County Public Schools
+13383,540324,AGNR,54,1,Lenoir County Public Schools
+13384,540324,ARCH,25,1,Lenoir County Public Schools
+13385,540324,BMA,1,1,Lenoir County Public Schools
+13386,540324,HLTH,25,1,Lenoir County Public Schools
+13387,540324,HOSP,9,1,Lenoir County Public Schools
+13388,540324,HUMA,21,1,Lenoir County Public Schools
+13389,540324,INFO,6,1,Lenoir County Public Schools
+13390,540324,MANU,2,1,Lenoir County Public Schools
+13445,540336,AGNR,31,1,Lenoir County Public Schools
+13446,540336,ARCH,19,1,Lenoir County Public Schools
+13447,540336,HLTH,43,1,Lenoir County Public Schools
+13448,540336,HUMA,29,1,Lenoir County Public Schools
+13449,540336,INFO,2,1,Lenoir County Public Schools
+13450,540336,MANU,4,1,Lenoir County Public Schools
+13451,540336,STEM,20,1,Lenoir County Public Schools
+13452,540336,TRAN,8,1,Lenoir County Public Schools
+13513,550320,AAVC,7,0,Lincoln County Schools
+13514,550320,ARCH,6,0,Lincoln County Schools
+13515,550320,HLTH,28,0,Lincoln County Schools
+13516,550320,HOSP,8,0,Lincoln County Schools
+13517,550320,HUMA,21,0,Lincoln County Schools
+13518,550320,INFO,1,0,Lincoln County Schools
+13519,550320,LAW,1,0,Lincoln County Schools
+13520,550320,MANU,12,0,Lincoln County Schools
+13521,550320,STEM,2,0,Lincoln County Schools
+13522,550320,TRAN,4,0,Lincoln County Schools
+13583,550332,AAVC,5,0,Lincoln County Schools
+13584,550332,ARCH,3,0,Lincoln County Schools
+13585,550332,HLTH,29,0,Lincoln County Schools
+13586,550332,HOSP,14,0,Lincoln County Schools
+13587,550332,HUMA,8,0,Lincoln County Schools
+13588,550332,LAW,2,0,Lincoln County Schools
+13589,550332,MANU,14,0,Lincoln County Schools
+13590,550332,STEM,2,0,Lincoln County Schools
+13591,550332,TRAN,3,0,Lincoln County Schools
+13653,550344,AAVC,5,0,Lincoln County Schools
+13654,550344,ARCH,13,0,Lincoln County Schools
+13655,550344,FINA,3,0,Lincoln County Schools
+13656,550344,HLTH,30,0,Lincoln County Schools
+13657,550344,HOSP,30,0,Lincoln County Schools
+13658,550344,HUMA,20,0,Lincoln County Schools
+13659,550344,INFO,4,0,Lincoln County Schools
+13660,550344,LAW,11,0,Lincoln County Schools
+13661,550344,MANU,46,0,Lincoln County Schools
+13662,550344,STEM,9,0,Lincoln County Schools
+13663,550344,TRAN,2,0,Lincoln County Schools
+13722,550368,AAVC,7,0,Lincoln County Schools
+13723,550368,AGNR,20,0,Lincoln County Schools
+13724,550368,ARCH,10,0,Lincoln County Schools
+13725,550368,HLTH,26,0,Lincoln County Schools
+13726,550368,HUMA,19,0,Lincoln County Schools
+13727,550368,INFO,2,0,Lincoln County Schools
+13728,550368,MANU,30,0,Lincoln County Schools
+13729,550368,STEM,5,0,Lincoln County Schools
+13730,550368,TRAN,4,0,Lincoln County Schools
+13802,560320,AAVC,8,0,Macon County Schools
+13803,560320,AGNR,23,0,Macon County Schools
+13804,560320,BMA,3,0,Macon County Schools
+13805,560320,HLTH,13,0,Macon County Schools
+13806,560320,HUMA,54,0,Macon County Schools
+13807,560320,MANU,11,0,Macon County Schools
+13845,560324,AAVC,3,1,Macon County Schools
+13846,560324,ARCH,4,1,Macon County Schools
+13847,560324,HLTH,5,1,Macon County Schools
+13848,560324,HOSP,2,1,Macon County Schools
+13849,560324,HUMA,14,1,Macon County Schools
+13850,560324,STEM,5,1,Macon County Schools
+13881,560332,MANU,11,1,Macon County Schools
+13940,570317,HOSP,2,0,Madison County Schools
+13941,570317,HUMA,1,0,Madison County Schools
+13942,570317,INFO,2,0,Madison County Schools
+13943,570317,LAW,1,0,Madison County Schools
+13944,570317,MANU,6,0,Madison County Schools
+13992,570318,AGNR,16,0,Madison County Schools
+13993,570318,ARCH,32,0,Madison County Schools
+13994,570318,HLTH,32,0,Madison County Schools
+13995,570318,HUMA,26,0,Madison County Schools
+13996,570318,INFO,4,0,Madison County Schools
+13997,570318,MANU,23,0,Madison County Schools
+13998,570318,STEM,4,0,Madison County Schools
+13999,570318,TRAN,2,0,Madison County Schools
+14037,580344,AGNR,5,1,Martin County Schools
+14038,580344,ARCH,1,1,Martin County Schools
+14039,580344,HLTH,5,1,Martin County Schools
+14040,580344,HUMA,23,1,Martin County Schools
+14041,580344,TRAN,1,1,Martin County Schools
+14075,580368,AGNR,7,1,Martin County Schools
+14076,580368,HLTH,13,1,Martin County Schools
+14077,580368,HUMA,31,1,Martin County Schools
+14111,58B000,AGNR,10,1,Charter Schools
+14112,58B000,ARCH,8,1,Charter Schools
+14113,58B000,HLTH,2,1,Charter Schools
+14114,58B000,STEM,4,1,Charter Schools
+14149,590328,BMA,5,0,McDowell County Schools
+14150,590328,EDUC,3,0,McDowell County Schools
+14151,590328,MANU,2,0,McDowell County Schools
+14152,590328,TRAN,3,0,McDowell County Schools
+14209,590330,AAVC,44,0,McDowell County Schools
+14210,590330,AGNR,9,0,McDowell County Schools
+14211,590330,ARCH,18,0,McDowell County Schools
+14212,590330,EDUC,1,0,McDowell County Schools
+14213,590330,HLTH,34,0,McDowell County Schools
+14214,590330,HOSP,23,0,McDowell County Schools
+14215,590330,HUMA,14,0,McDowell County Schools
+14216,590330,LAW,31,0,McDowell County Schools
+14217,590330,MANU,34,0,McDowell County Schools
+14218,590330,STEM,1,0,McDowell County Schools
+14219,590330,TRAN,7,0,McDowell County Schools
+14290,600302,ARCH,70,0,Charlotte-Mecklenburg Schools
+14291,600302,FINA,22,0,Charlotte-Mecklenburg Schools
+14292,600302,HLTH,15,0,Charlotte-Mecklenburg Schools
+14293,600302,HOSP,258,0,Charlotte-Mecklenburg Schools
+14294,600302,INFO,72,0,Charlotte-Mecklenburg Schools
+14295,600302,MRKT,1,0,Charlotte-Mecklenburg Schools
+14296,600302,STEM,11,0,Charlotte-Mecklenburg Schools
+14350,600312,ARCH,35,0,Charlotte-Mecklenburg Schools
+14351,600312,FINA,25,0,Charlotte-Mecklenburg Schools
+14352,600312,HOSP,81,0,Charlotte-Mecklenburg Schools
+14353,600312,INFO,28,0,Charlotte-Mecklenburg Schools
+14354,600312,MRKT,8,0,Charlotte-Mecklenburg Schools
+14355,600312,STEM,37,0,Charlotte-Mecklenburg Schools
+14402,600334,ARCH,1,0,Charlotte-Mecklenburg Schools
+14403,600334,BMA,1,0,Charlotte-Mecklenburg Schools
+14404,600334,EDUC,1,0,Charlotte-Mecklenburg Schools
+14405,600334,INFO,2,0,Charlotte-Mecklenburg Schools
+14406,600334,MRKT,1,0,Charlotte-Mecklenburg Schools
+14429,600341,BMA,8,1,Charlotte-Mecklenburg Schools
+14430,600341,INFO,1,1,Charlotte-Mecklenburg Schools
+14431,600341,MRKT,12,1,Charlotte-Mecklenburg Schools
+14481,600361,AAVC,19,0,Charlotte-Mecklenburg Schools
+14482,600361,ARCH,59,0,Charlotte-Mecklenburg Schools
+14483,600361,FINA,7,0,Charlotte-Mecklenburg Schools
+14484,600361,HLTH,66,0,Charlotte-Mecklenburg Schools
+14485,600361,HOSP,21,0,Charlotte-Mecklenburg Schools
+14486,600361,LAW,1,0,Charlotte-Mecklenburg Schools
+14487,600361,MRKT,13,0,Charlotte-Mecklenburg Schools
+14514,600364,LAW,76,1,Charlotte-Mecklenburg Schools
+14553,600377,HLTH,22,0,Charlotte-Mecklenburg Schools
+14554,600377,HOSP,11,0,Charlotte-Mecklenburg Schools
+14555,600377,HUMA,11,0,Charlotte-Mecklenburg Schools
+14556,600377,INFO,6,0,Charlotte-Mecklenburg Schools
+14557,600377,MRKT,42,0,Charlotte-Mecklenburg Schools
+14558,600377,STEM,28,0,Charlotte-Mecklenburg Schools
+14559,600377,TRAN,7,0,Charlotte-Mecklenburg Schools
+14586,600386,HLTH,62,0,Charlotte-Mecklenburg Schools
+14632,600397,AAVC,20,1,Charlotte-Mecklenburg Schools
+14633,600397,AGNR,2,1,Charlotte-Mecklenburg Schools
+14634,600397,HLTH,10,1,Charlotte-Mecklenburg Schools
+14635,600397,HOSP,10,1,Charlotte-Mecklenburg Schools
+14636,600397,INFO,2,1,Charlotte-Mecklenburg Schools
+14637,600397,MRKT,24,1,Charlotte-Mecklenburg Schools
+14689,600405,AAVC,23,1,Charlotte-Mecklenburg Schools
+14690,600405,ARCH,16,1,Charlotte-Mecklenburg Schools
+14691,600405,BMA,3,1,Charlotte-Mecklenburg Schools
+14692,600405,INFO,17,1,Charlotte-Mecklenburg Schools
+14693,600405,MRKT,97,1,Charlotte-Mecklenburg Schools
+14694,600405,TRAN,17,1,Charlotte-Mecklenburg Schools
+14743,600415,AAVC,19,0,Charlotte-Mecklenburg Schools
+14744,600415,HLTH,26,0,Charlotte-Mecklenburg Schools
+14745,600415,HUMA,6,0,Charlotte-Mecklenburg Schools
+14746,600415,INFO,12,0,Charlotte-Mecklenburg Schools
+14747,600415,LAW,1,0,Charlotte-Mecklenburg Schools
+14748,600415,MRKT,18,0,Charlotte-Mecklenburg Schools
+14749,600415,STEM,46,0,Charlotte-Mecklenburg Schools
+14801,600426,AAVC,14,0,Charlotte-Mecklenburg Schools
+14802,600426,ARCH,56,0,Charlotte-Mecklenburg Schools
+14803,600426,HLTH,29,0,Charlotte-Mecklenburg Schools
+14804,600426,HOSP,65,0,Charlotte-Mecklenburg Schools
+14805,600426,INFO,2,0,Charlotte-Mecklenburg Schools
+14806,600426,MRKT,4,0,Charlotte-Mecklenburg Schools
+14807,600426,STEM,32,0,Charlotte-Mecklenburg Schools
+14808,600426,TRAN,8,0,Charlotte-Mecklenburg Schools
+14844,600439,HOSP,1,1,Charlotte-Mecklenburg Schools
+14883,600443,AAVC,1,0,Charlotte-Mecklenburg Schools
+14884,600443,BMA,3,0,Charlotte-Mecklenburg Schools
+14885,600443,HUMA,1,0,Charlotte-Mecklenburg Schools
+14886,600443,INFO,1,0,Charlotte-Mecklenburg Schools
+14931,600445,AAVC,24,0,Charlotte-Mecklenburg Schools
+14932,600445,ARCH,7,0,Charlotte-Mecklenburg Schools
+14933,600445,BMA,10,0,Charlotte-Mecklenburg Schools
+14934,600445,HLTH,49,0,Charlotte-Mecklenburg Schools
+14935,600445,HOSP,119,0,Charlotte-Mecklenburg Schools
+14936,600445,INFO,15,0,Charlotte-Mecklenburg Schools
+14937,600445,LAW,1,0,Charlotte-Mecklenburg Schools
+14938,600445,MRKT,44,0,Charlotte-Mecklenburg Schools
+14939,600445,STEM,40,0,Charlotte-Mecklenburg Schools
+14993,600457,AAVC,66,0,Charlotte-Mecklenburg Schools
+14994,600457,INFO,60,0,Charlotte-Mecklenburg Schools
+14995,600457,MRKT,72,0,Charlotte-Mecklenburg Schools
+15042,600466,ARCH,29,0,Charlotte-Mecklenburg Schools
+15043,600466,HLTH,19,0,Charlotte-Mecklenburg Schools
+15044,600466,HOSP,93,0,Charlotte-Mecklenburg Schools
+15045,600466,INFO,19,0,Charlotte-Mecklenburg Schools
+15046,600466,MRKT,28,0,Charlotte-Mecklenburg Schools
+15047,600466,STEM,71,0,Charlotte-Mecklenburg Schools
+15048,600466,TRAN,12,0,Charlotte-Mecklenburg Schools
+15099,600480,AAVC,3,0,Charlotte-Mecklenburg Schools
+15100,600480,FINA,10,0,Charlotte-Mecklenburg Schools
+15101,600480,HOSP,34,0,Charlotte-Mecklenburg Schools
+15102,600480,HUMA,15,0,Charlotte-Mecklenburg Schools
+15103,600480,LAW,1,0,Charlotte-Mecklenburg Schools
+15104,600480,MRKT,2,0,Charlotte-Mecklenburg Schools
+15105,600480,TRAN,9,0,Charlotte-Mecklenburg Schools
+15145,600496,AAVC,68,0,Charlotte-Mecklenburg Schools
+15146,600496,ARCH,6,0,Charlotte-Mecklenburg Schools
+15147,600496,HLTH,86,0,Charlotte-Mecklenburg Schools
+15148,600496,INFO,43,0,Charlotte-Mecklenburg Schools
+15149,600496,MRKT,1,0,Charlotte-Mecklenburg Schools
+15150,600496,STEM,88,0,Charlotte-Mecklenburg Schools
+15182,600498,BMA,1,1,Charlotte-Mecklenburg Schools
+15183,600498,HOSP,15,1,Charlotte-Mecklenburg Schools
+15230,600508,AGNR,40,0,Charlotte-Mecklenburg Schools
+15231,600508,ARCH,38,0,Charlotte-Mecklenburg Schools
+15232,600508,FINA,17,0,Charlotte-Mecklenburg Schools
+15233,600508,HLTH,43,0,Charlotte-Mecklenburg Schools
+15234,600508,INFO,10,0,Charlotte-Mecklenburg Schools
+15235,600508,LAW,1,0,Charlotte-Mecklenburg Schools
+15236,600508,MRKT,44,0,Charlotte-Mecklenburg Schools
+15237,600508,STEM,44,0,Charlotte-Mecklenburg Schools
+15238,600508,TRAN,9,0,Charlotte-Mecklenburg Schools
+15296,600535,AAVC,17,0,Charlotte-Mecklenburg Schools
+15297,600535,ARCH,2,0,Charlotte-Mecklenburg Schools
+15298,600535,BMA,8,0,Charlotte-Mecklenburg Schools
+15299,600535,FINA,12,0,Charlotte-Mecklenburg Schools
+15300,600535,HLTH,20,0,Charlotte-Mecklenburg Schools
+15301,600535,HOSP,91,0,Charlotte-Mecklenburg Schools
+15302,600535,MRKT,26,0,Charlotte-Mecklenburg Schools
+15303,600535,STEM,6,0,Charlotte-Mecklenburg Schools
+15304,600535,TRAN,18,0,Charlotte-Mecklenburg Schools
+15317,600567,STEM,66,0,Charlotte-Mecklenburg Schools
+15360,600576,AAVC,6,1,Charlotte-Mecklenburg Schools
+15361,600576,ARCH,9,1,Charlotte-Mecklenburg Schools
+15362,600576,BMA,1,1,Charlotte-Mecklenburg Schools
+15363,600576,HLTH,7,1,Charlotte-Mecklenburg Schools
+15364,600576,HOSP,7,1,Charlotte-Mecklenburg Schools
+15365,600576,HUMA,3,1,Charlotte-Mecklenburg Schools
+15366,600576,INFO,1,1,Charlotte-Mecklenburg Schools
+15367,600576,MRKT,29,1,Charlotte-Mecklenburg Schools
+15416,600579,AAVC,20,1,Charlotte-Mecklenburg Schools
+15417,600579,ARCH,12,1,Charlotte-Mecklenburg Schools
+15418,600579,HOSP,51,1,Charlotte-Mecklenburg Schools
+15419,600579,HUMA,12,1,Charlotte-Mecklenburg Schools
+15420,600579,INFO,3,1,Charlotte-Mecklenburg Schools
+15421,600579,LAW,1,1,Charlotte-Mecklenburg Schools
+15422,600579,MRKT,16,1,Charlotte-Mecklenburg Schools
+15474,600592,AAVC,5,1,Charlotte-Mecklenburg Schools
+15475,600592,HLTH,15,1,Charlotte-Mecklenburg Schools
+15476,600592,MRKT,189,1,Charlotte-Mecklenburg Schools
+15516,60G000,INFO,1,1,Charter Schools
+15592,610332,HLTH,2,0,Mitchell County Schools
+15593,610332,HUMA,4,0,Mitchell County Schools
+15594,610332,LAW,2,0,Mitchell County Schools
+15595,610332,MANU,1,0,Mitchell County Schools
+15649,610334,AGNR,7,0,Mitchell County Schools
+15650,610334,ARCH,5,0,Mitchell County Schools
+15651,610334,BMA,2,0,Mitchell County Schools
+15652,610334,FINA,8,0,Mitchell County Schools
+15653,610334,HLTH,32,0,Mitchell County Schools
+15654,610334,HUMA,33,0,Mitchell County Schools
+15655,610334,MANU,6,0,Mitchell County Schools
+15656,610334,STEM,15,0,Mitchell County Schools
+15657,610334,TRAN,3,0,Mitchell County Schools
+15695,620310,ARCH,1,0,Montgomery County Schools
+15696,620310,LAW,1,0,Montgomery County Schools
+15697,620310,TRAN,1,0,Montgomery County Schools
+15732,630332,AGNR,34,0,Moore County Schools
+15733,630332,HLTH,43,0,Moore County Schools
+15734,630332,HUMA,16,0,Moore County Schools
+15735,630332,TRAN,18,0,Moore County Schools
+15794,630336,AAVC,7,0,Moore County Schools
+15795,630336,AGNR,47,0,Moore County Schools
+15796,630336,ARCH,31,0,Moore County Schools
+15797,630336,HLTH,55,0,Moore County Schools
+15798,630336,HOSP,26,0,Moore County Schools
+15799,630336,HUMA,44,0,Moore County Schools
+15800,630336,INFO,13,0,Moore County Schools
+15801,630336,STEM,10,0,Moore County Schools
+15802,630336,TRAN,12,0,Moore County Schools
+15858,630360,AAVC,23,0,Moore County Schools
+15859,630360,AGNR,16,0,Moore County Schools
+15860,630360,ARCH,3,0,Moore County Schools
+15861,630360,BMA,4,0,Moore County Schools
+15862,630360,HLTH,31,0,Moore County Schools
+15863,630360,HOSP,17,0,Moore County Schools
+15864,630360,HUMA,30,0,Moore County Schools
+15865,630360,INFO,1,0,Moore County Schools
+15866,630360,STEM,14,0,Moore County Schools
+15867,630360,TRAN,9,0,Moore County Schools
+15924,640346,AAVC,1,0,Nash County Public Schools
+15925,640346,ARCH,5,0,Nash County Public Schools
+15926,640346,HLTH,26,0,Nash County Public Schools
+15927,640346,HOSP,11,0,Nash County Public Schools
+15928,640346,HUMA,52,0,Nash County Public Schools
+15929,640346,LAW,8,0,Nash County Public Schools
+15930,640346,TRAN,17,0,Nash County Public Schools
+15959,640347,BMA,2,0,Nash County Public Schools
+15960,640347,INFO,1,0,Nash County Public Schools
+15961,640347,MANU,1,0,Nash County Public Schools
+16011,640350,ARCH,65,0,Nash County Public Schools
+16012,640350,HLTH,27,0,Nash County Public Schools
+16013,640350,HOSP,12,0,Nash County Public Schools
+16014,640350,HUMA,66,0,Nash County Public Schools
+16015,640350,INFO,5,0,Nash County Public Schools
+16016,640350,MANU,2,0,Nash County Public Schools
+16017,640350,MRKT,6,0,Nash County Public Schools
+16079,640361,AAVC,6,0,Nash County Public Schools
+16080,640361,ARCH,7,0,Nash County Public Schools
+16081,640361,EDUC,6,0,Nash County Public Schools
+16082,640361,HLTH,21,0,Nash County Public Schools
+16083,640361,HOSP,9,0,Nash County Public Schools
+16084,640361,HUMA,54,0,Nash County Public Schools
+16085,640361,LAW,12,0,Nash County Public Schools
+16086,640361,STEM,21,0,Nash County Public Schools
+16132,640364,AGNR,60,0,Nash County Public Schools
+16133,640364,BMA,4,0,Nash County Public Schools
+16134,640364,HLTH,30,0,Nash County Public Schools
+16135,640364,HUMA,22,0,Nash County Public Schools
+16136,640364,INFO,1,0,Nash County Public Schools
+16137,640364,LAW,6,0,Nash County Public Schools
+16138,640364,TRAN,4,0,Nash County Public Schools
+16191,650326,AAVC,13,0,New Hanover County Schools
+16192,650326,ARCH,13,0,New Hanover County Schools
+16193,650326,BMA,1,0,New Hanover County Schools
+16194,650326,HLTH,55,0,New Hanover County Schools
+16195,650326,HOSP,14,0,New Hanover County Schools
+16196,650326,HUMA,26,0,New Hanover County Schools
+16197,650326,INFO,1,0,New Hanover County Schools
+16198,650326,STEM,23,0,New Hanover County Schools
+16251,650327,AAVC,71,0,New Hanover County Schools
+16252,650327,ARCH,11,0,New Hanover County Schools
+16253,650327,HLTH,40,0,New Hanover County Schools
+16254,650327,HOSP,9,0,New Hanover County Schools
+16255,650327,HUMA,9,0,New Hanover County Schools
+16256,650327,INFO,3,0,New Hanover County Schools
+16257,650327,STEM,33,0,New Hanover County Schools
+16314,650342,AAVC,27,0,New Hanover County Schools
+16315,650342,AGNR,16,0,New Hanover County Schools
+16316,650342,ARCH,3,0,New Hanover County Schools
+16317,650342,BMA,1,0,New Hanover County Schools
+16318,650342,HLTH,33,0,New Hanover County Schools
+16319,650342,HUMA,9,0,New Hanover County Schools
+16320,650342,INFO,4,0,New Hanover County Schools
+16321,650342,STEM,24,0,New Hanover County Schools
+16375,650352,AAVC,14,0,New Hanover County Schools
+16376,650352,ARCH,16,0,New Hanover County Schools
+16377,650352,HLTH,5,0,New Hanover County Schools
+16378,650352,HUMA,10,0,New Hanover County Schools
+16379,650352,INFO,1,0,New Hanover County Schools
+16380,650352,LAW,4,0,New Hanover County Schools
+16381,650352,STEM,30,0,New Hanover County Schools
+16382,650352,TRAN,1,0,New Hanover County Schools
+16418,650394,AAVC,1,0,New Hanover County Schools
+16419,650394,AGNR,1,0,New Hanover County Schools
+16420,650394,EDUC,1,0,New Hanover County Schools
+16421,650394,HOSP,2,0,New Hanover County Schools
+16422,650394,INFO,4,0,New Hanover County Schools
+16423,650394,LAW,1,0,New Hanover County Schools
+16424,650394,MANU,1,0,New Hanover County Schools
+16470,660336,AGNR,20,1,Northampton County Schools
+16471,660336,HOSP,12,1,Northampton County Schools
+16472,660336,HUMA,8,1,Northampton County Schools
+16473,660336,INFO,20,1,Northampton County Schools
+16493,66A000,INFO,1,1,Charter Schools
+16533,670320,AAVC,6,0,Onslow County Schools
+16534,670320,ARCH,26,0,Onslow County Schools
+16535,670320,HLTH,1,0,Onslow County Schools
+16536,670320,HUMA,52,0,Onslow County Schools
+16537,670320,MANU,4,0,Onslow County Schools
+16538,670320,TRAN,1,0,Onslow County Schools
+16591,670324,AAVC,6,0,Onslow County Schools
+16592,670324,AGNR,18,0,Onslow County Schools
+16593,670324,ARCH,33,0,Onslow County Schools
+16594,670324,HLTH,51,0,Onslow County Schools
+16595,670324,HOSP,1,0,Onslow County Schools
+16596,670324,HUMA,62,0,Onslow County Schools
+16597,670324,MANU,7,0,Onslow County Schools
+16598,670324,MRKT,1,0,Onslow County Schools
+16599,670324,STEM,2,0,Onslow County Schools
+16600,670324,TRAN,1,0,Onslow County Schools
+16650,670333,AAVC,19,0,Onslow County Schools
+16651,670333,HLTH,48,0,Onslow County Schools
+16652,670333,HOSP,3,0,Onslow County Schools
+16653,670333,HUMA,40,0,Onslow County Schools
+16654,670333,INFO,17,0,Onslow County Schools
+16655,670333,MANU,4,0,Onslow County Schools
+16656,670333,STEM,20,0,Onslow County Schools
+16657,670333,TRAN,2,0,Onslow County Schools
+16708,670340,AAVC,11,0,Onslow County Schools
+16709,670340,AGNR,58,0,Onslow County Schools
+16710,670340,ARCH,27,0,Onslow County Schools
+16711,670340,HLTH,54,0,Onslow County Schools
+16712,670340,HUMA,45,0,Onslow County Schools
+16713,670340,MANU,11,0,Onslow County Schools
+16714,670340,STEM,6,0,Onslow County Schools
+16715,670340,TRAN,1,0,Onslow County Schools
+16768,670344,AAVC,5,0,Onslow County Schools
+16769,670344,ARCH,21,0,Onslow County Schools
+16770,670344,HLTH,1,0,Onslow County Schools
+16771,670344,HUMA,57,0,Onslow County Schools
+16772,670344,LAW,30,0,Onslow County Schools
+16773,670344,MANU,15,0,Onslow County Schools
+16774,670344,TRAN,2,0,Onslow County Schools
+16831,670352,AAVC,16,0,Onslow County Schools
+16832,670352,AGNR,39,0,Onslow County Schools
+16833,670352,ARCH,31,0,Onslow County Schools
+16834,670352,HLTH,41,0,Onslow County Schools
+16835,670352,HOSP,11,0,Onslow County Schools
+16836,670352,HUMA,38,0,Onslow County Schools
+16837,670352,MANU,19,0,Onslow County Schools
+16838,670352,STEM,11,0,Onslow County Schools
+16839,670352,TRAN,1,0,Onslow County Schools
+16888,670364,AAVC,5,0,Onslow County Schools
+16889,670364,AGNR,13,0,Onslow County Schools
+16890,670364,ARCH,23,0,Onslow County Schools
+16891,670364,HLTH,2,0,Onslow County Schools
+16892,670364,HUMA,18,0,Onslow County Schools
+16893,670364,MANU,1,0,Onslow County Schools
+16894,670364,STEM,12,0,Onslow County Schools
+16948,680310,AAVC,33,0,Orange County Schools
+16949,680310,AGNR,13,0,Orange County Schools
+16950,680310,ARCH,28,0,Orange County Schools
+16951,680310,HLTH,13,0,Orange County Schools
+16952,680310,HUMA,25,0,Orange County Schools
+16953,680310,INFO,2,0,Orange County Schools
+16954,680310,LAW,23,0,Orange County Schools
+16955,680310,MANU,20,0,Orange County Schools
+17015,680332,AAVC,12,0,Orange County Schools
+17016,680332,AGNR,67,0,Orange County Schools
+17017,680332,ARCH,19,0,Orange County Schools
+17018,680332,FINA,12,0,Orange County Schools
+17019,680332,HOSP,9,0,Orange County Schools
+17020,680332,HUMA,27,0,Orange County Schools
+17021,680332,INFO,9,0,Orange County Schools
+17022,680332,LAW,15,0,Orange County Schools
+17023,680332,MANU,1,0,Orange County Schools
+17024,680332,STEM,1,0,Orange County Schools
+17085,681305,AAVC,25,0,Chapel Hill-Carrboro Schools
+17086,681305,HLTH,1,0,Chapel Hill-Carrboro Schools
+17087,681305,MRKT,13,0,Chapel Hill-Carrboro Schools
+17130,681308,AAVC,25,0,Chapel Hill-Carrboro Schools
+17131,681308,ARCH,16,0,Chapel Hill-Carrboro Schools
+17132,681308,BMA,9,0,Chapel Hill-Carrboro Schools
+17133,681308,HLTH,33,0,Chapel Hill-Carrboro Schools
+17134,681308,HUMA,20,0,Chapel Hill-Carrboro Schools
+17135,681308,INFO,27,0,Chapel Hill-Carrboro Schools
+17136,681308,LAW,9,0,Chapel Hill-Carrboro Schools
+17137,681308,STEM,1,0,Chapel Hill-Carrboro Schools
+17138,681308,TRAN,6,0,Chapel Hill-Carrboro Schools
+17184,681314,AAVC,44,0,Chapel Hill-Carrboro Schools
+17185,681314,ARCH,11,0,Chapel Hill-Carrboro Schools
+17186,681314,HLTH,48,0,Chapel Hill-Carrboro Schools
+17187,681314,INFO,1,0,Chapel Hill-Carrboro Schools
+17188,681314,STEM,47,0,Chapel Hill-Carrboro Schools
+17218,681338,ARCH,1,0,Chapel Hill-Carrboro Schools
+17263,690320,AGNR,26,0,Pamlico County Schools
+17264,690320,HLTH,10,0,Pamlico County Schools
+17265,690320,HUMA,3,0,Pamlico County Schools
+17266,690320,LAW,2,0,Pamlico County Schools
+17294,69A000,HLTH,1,1,Charter Schools
+17302,700310,HUMA,2,0,Pasquotank County Schools
+17344,700317,AGNR,46,1,Pasquotank County Schools
+17345,700317,BMA,13,1,Pasquotank County Schools
+17346,700317,HLTH,17,1,Pasquotank County Schools
+17347,700317,HUMA,9,1,Pasquotank County Schools
+17348,700317,LAW,2,1,Pasquotank County Schools
+17349,700317,STEM,6,1,Pasquotank County Schools
+17350,700317,TRAN,4,1,Pasquotank County Schools
+17402,700319,AGNR,27,1,Pasquotank County Schools
+17403,700319,ARCH,16,1,Pasquotank County Schools
+17404,700319,BMA,4,1,Pasquotank County Schools
+17405,700319,HLTH,1,1,Pasquotank County Schools
+17406,700319,HUMA,29,1,Pasquotank County Schools
+17407,700319,LAW,27,1,Pasquotank County Schools
+17408,700319,MRKT,10,1,Pasquotank County Schools
+17450,710321,AGNR,48,0,Pender County Schools
+17451,710321,ARCH,31,0,Pender County Schools
+17452,710321,HLTH,6,0,Pender County Schools
+17453,710321,HOSP,16,0,Pender County Schools
+17454,710321,HUMA,22,0,Pender County Schools
+17455,710321,MANU,1,0,Pender County Schools
+17456,710321,TRAN,1,0,Pender County Schools
+17495,710326,AGNR,10,0,Pender County Schools
+17496,710326,ARCH,20,0,Pender County Schools
+17497,710326,BMA,2,0,Pender County Schools
+17498,710326,HLTH,36,0,Pender County Schools
+17533,710327,HUMA,1,0,Pender County Schools
+17534,710327,MANU,2,0,Pender County Schools
+17535,710327,STEM,3,0,Pender County Schools
+17588,710342,AAVC,37,0,Pender County Schools
+17589,710342,AGNR,46,0,Pender County Schools
+17590,710342,ARCH,26,0,Pender County Schools
+17591,710342,HLTH,63,0,Pender County Schools
+17592,710342,HOSP,49,0,Pender County Schools
+17593,710342,HUMA,25,0,Pender County Schools
+17594,710342,MRKT,1,0,Pender County Schools
+17595,710342,TRAN,2,0,Pender County Schools
+17653,720316,AAVC,6,0,Perquimans County Schools
+17654,720316,AGNR,51,0,Perquimans County Schools
+17655,720316,ARCH,5,0,Perquimans County Schools
+17656,720316,HLTH,15,0,Perquimans County Schools
+17657,720316,LAW,12,0,Perquimans County Schools
+17658,720316,TRAN,11,0,Perquimans County Schools
+17720,730352,AGNR,16,0,Person County Schools
+17721,730352,ARCH,67,0,Person County Schools
+17722,730352,BMA,7,0,Person County Schools
+17723,730352,HLTH,39,0,Person County Schools
+17724,730352,HUMA,44,0,Person County Schools
+17725,730352,LAW,16,0,Person County Schools
+17726,730352,MRKT,16,0,Person County Schools
+17727,730352,TRAN,16,0,Person County Schools
+17798,740309,AGNR,21,0,Pitt County Schools
+17799,740309,ARCH,5,0,Pitt County Schools
+17800,740309,HLTH,19,0,Pitt County Schools
+17801,740309,HUMA,47,0,Pitt County Schools
+17802,740309,MANU,11,0,Pitt County Schools
+17803,740309,STEM,18,0,Pitt County Schools
+17804,740309,TRAN,5,0,Pitt County Schools
+17861,740333,AAVC,4,0,Pitt County Schools
+17862,740333,AGNR,14,0,Pitt County Schools
+17863,740333,ARCH,33,0,Pitt County Schools
+17864,740333,BMA,1,0,Pitt County Schools
+17865,740333,HLTH,118,0,Pitt County Schools
+17866,740333,HOSP,24,0,Pitt County Schools
+17867,740333,HUMA,32,0,Pitt County Schools
+17868,740333,INFO,30,0,Pitt County Schools
+17869,740333,MANU,9,0,Pitt County Schools
+17870,740333,TRAN,21,0,Pitt County Schools
+17927,740344,AAVC,8,0,Pitt County Schools
+17928,740344,AGNR,25,0,Pitt County Schools
+17929,740344,ARCH,7,0,Pitt County Schools
+17930,740344,HLTH,27,0,Pitt County Schools
+17931,740344,HUMA,24,0,Pitt County Schools
+17932,740344,INFO,1,0,Pitt County Schools
+17933,740344,MANU,12,0,Pitt County Schools
+17934,740344,STEM,23,0,Pitt County Schools
+17935,740344,TRAN,7,0,Pitt County Schools
+17991,740366,AAVC,8,0,Pitt County Schools
+17992,740366,ARCH,34,0,Pitt County Schools
+17993,740366,HLTH,41,0,Pitt County Schools
+17994,740366,HOSP,20,0,Pitt County Schools
+17995,740366,HUMA,27,0,Pitt County Schools
+17996,740366,MANU,12,0,Pitt County Schools
+17997,740366,STEM,6,0,Pitt County Schools
+18048,740374,AGNR,3,0,Pitt County Schools
+18049,740374,ARCH,11,0,Pitt County Schools
+18050,740374,HLTH,24,0,Pitt County Schools
+18051,740374,HUMA,52,0,Pitt County Schools
+18052,740374,MANU,7,0,Pitt County Schools
+18053,740374,STEM,23,0,Pitt County Schools
+18109,740388,AAVC,33,0,Pitt County Schools
+18110,740388,ARCH,18,0,Pitt County Schools
+18111,740388,EDUC,1,0,Pitt County Schools
+18112,740388,HLTH,69,0,Pitt County Schools
+18113,740388,HOSP,8,0,Pitt County Schools
+18114,740388,HUMA,82,0,Pitt County Schools
+18115,740388,STEM,21,0,Pitt County Schools
+18116,740388,TRAN,7,0,Pitt County Schools
+18166,750318,AGNR,60,0,Polk County Schools
+18167,750318,HLTH,37,0,Polk County Schools
+18168,750318,HOSP,7,0,Polk County Schools
+18169,750318,HUMA,23,0,Polk County Schools
+18170,750318,LAW,6,0,Polk County Schools
+18171,750318,MANU,4,0,Polk County Schools
+18172,750318,STEM,7,0,Polk County Schools
+18223,760318,AAVC,1,0,Randolph County Schools
+18224,760318,AGNR,33,0,Randolph County Schools
+18225,760318,ARCH,16,0,Randolph County Schools
+18226,760318,HLTH,1,0,Randolph County Schools
+18227,760318,HUMA,18,0,Randolph County Schools
+18228,760318,MANU,11,0,Randolph County Schools
+18274,760339,AGNR,41,0,Randolph County Schools
+18275,760339,ARCH,24,0,Randolph County Schools
+18276,760339,HLTH,13,0,Randolph County Schools
+18277,760339,HUMA,25,0,Randolph County Schools
+18328,760348,AGNR,20,0,Randolph County Schools
+18329,760348,HLTH,10,0,Randolph County Schools
+18330,760348,HOSP,17,0,Randolph County Schools
+18331,760348,HUMA,38,0,Randolph County Schools
+18332,760348,INFO,1,0,Randolph County Schools
+18333,760348,MANU,42,0,Randolph County Schools
+18334,760348,TRAN,26,0,Randolph County Schools
+18368,760354,AAVC,1,0,Randolph County Schools
+18369,760354,ARCH,1,0,Randolph County Schools
+18370,760354,BMA,1,0,Randolph County Schools
+18371,760354,FINA,1,0,Randolph County Schools
+18372,760354,HUMA,1,0,Randolph County Schools
+18373,760354,INFO,3,0,Randolph County Schools
+18374,760354,TRAN,1,0,Randolph County Schools
+18423,760358,AGNR,26,0,Randolph County Schools
+18424,760358,ARCH,22,0,Randolph County Schools
+18425,760358,HLTH,9,0,Randolph County Schools
+18426,760358,HUMA,38,0,Randolph County Schools
+18427,760358,INFO,8,0,Randolph County Schools
+18428,760358,MANU,2,0,Randolph County Schools
+18474,760380,AGNR,78,0,Randolph County Schools
+18475,760380,ARCH,21,0,Randolph County Schools
+18476,760380,HLTH,16,0,Randolph County Schools
+18477,760380,HOSP,14,0,Randolph County Schools
+18478,760380,HUMA,2,0,Randolph County Schools
+18479,760380,INFO,9,0,Randolph County Schools
+18480,760380,MRKT,3,0,Randolph County Schools
+18532,760388,AAVC,8,0,Randolph County Schools
+18533,760388,AGNR,18,0,Randolph County Schools
+18534,760388,ARCH,24,0,Randolph County Schools
+18535,760388,HLTH,49,0,Randolph County Schools
+18536,760388,HOSP,13,0,Randolph County Schools
+18537,760388,HUMA,33,0,Randolph County Schools
+18538,760388,TRAN,18,0,Randolph County Schools
+18603,761304,AAVC,43,0,Asheboro City Schools
+18604,761304,AGNR,20,0,Asheboro City Schools
+18605,761304,HLTH,31,0,Asheboro City Schools
+18606,761304,HOSP,17,0,Asheboro City Schools
+18607,761304,HUMA,21,0,Asheboro City Schools
+18608,761304,MANU,24,0,Asheboro City Schools
+18609,761304,STEM,17,0,Asheboro City Schools
+18610,761304,TRAN,2,0,Asheboro City Schools
+18694,770348,AAVC,30,0,Richmond County Schools
+18695,770348,AGNR,10,0,Richmond County Schools
+18696,770348,ARCH,17,0,Richmond County Schools
+18697,770348,BMA,17,0,Richmond County Schools
+18698,770348,FINA,4,0,Richmond County Schools
+18699,770348,HLTH,68,0,Richmond County Schools
+18700,770348,HOSP,9,0,Richmond County Schools
+18701,770348,HUMA,14,0,Richmond County Schools
+18702,770348,LAW,17,0,Richmond County Schools
+18703,770348,MANU,9,0,Richmond County Schools
+18704,770348,MRKT,6,0,Richmond County Schools
+18705,770348,STEM,12,0,Richmond County Schools
+18706,770348,TRAN,5,0,Richmond County Schools
+18755,770349,ARCH,1,0,Richmond County Schools
+18756,770349,BMA,3,0,Richmond County Schools
+18757,770349,FINA,1,0,Richmond County Schools
+18758,770349,LAW,1,0,Richmond County Schools
+18759,770349,MANU,3,0,Richmond County Schools
+18760,770349,STEM,5,0,Richmond County Schools
+18815,780325,AAVC,1,1,Robeson County Schools
+18816,780325,AGNR,29,1,Robeson County Schools
+18817,780325,ARCH,4,1,Robeson County Schools
+18818,780325,HLTH,51,1,Robeson County Schools
+18819,780325,HOSP,6,1,Robeson County Schools
+18820,780325,INFO,1,1,Robeson County Schools
+18821,780325,MANU,2,1,Robeson County Schools
+18882,780342,AAVC,33,1,Robeson County Schools
+18883,780342,AGNR,34,1,Robeson County Schools
+18884,780342,ARCH,4,1,Robeson County Schools
+18885,780342,BMA,24,1,Robeson County Schools
+18886,780342,HLTH,39,1,Robeson County Schools
+18887,780342,HOSP,14,1,Robeson County Schools
+18888,780342,HUMA,80,1,Robeson County Schools
+18889,780342,INFO,1,1,Robeson County Schools
+18890,780342,LAW,3,1,Robeson County Schools
+18891,780342,MANU,2,1,Robeson County Schools
+18892,780342,TRAN,1,1,Robeson County Schools
+18935,780385,BMA,10,1,Robeson County Schools
+18936,780385,EDUC,1,1,Robeson County Schools
+18937,780385,INFO,3,1,Robeson County Schools
+18938,780385,STEM,1,1,Robeson County Schools
+18992,780391,AAVC,5,1,Robeson County Schools
+18993,780391,AGNR,24,1,Robeson County Schools
+18994,780391,ARCH,4,1,Robeson County Schools
+18995,780391,BMA,46,1,Robeson County Schools
+18996,780391,HLTH,17,1,Robeson County Schools
+18997,780391,HUMA,70,1,Robeson County Schools
+18998,780391,INFO,3,1,Robeson County Schools
+18999,780391,LAW,1,1,Robeson County Schools
+19000,780391,MANU,4,1,Robeson County Schools
+19001,780391,MRKT,50,1,Robeson County Schools
+19060,780401,AGNR,35,1,Robeson County Schools
+19061,780401,ARCH,2,1,Robeson County Schools
+19062,780401,BMA,8,1,Robeson County Schools
+19063,780401,HLTH,14,1,Robeson County Schools
+19064,780401,HOSP,10,1,Robeson County Schools
+19065,780401,HUMA,79,1,Robeson County Schools
+19066,780401,INFO,15,1,Robeson County Schools
+19067,780401,MANU,4,1,Robeson County Schools
+19068,780401,MRKT,5,1,Robeson County Schools
+19069,780401,STEM,1,1,Robeson County Schools
+19130,780420,AAVC,10,1,Robeson County Schools
+19131,780420,AGNR,69,1,Robeson County Schools
+19132,780420,ARCH,10,1,Robeson County Schools
+19133,780420,HLTH,71,1,Robeson County Schools
+19134,780420,HUMA,82,1,Robeson County Schools
+19135,780420,INFO,2,1,Robeson County Schools
+19136,780420,LAW,4,1,Robeson County Schools
+19137,780420,MANU,2,1,Robeson County Schools
+19138,780420,STEM,4,1,Robeson County Schools
+19139,780420,TRAN,4,1,Robeson County Schools
+19192,790314,AAVC,5,0,Rockingham County Schools
+19193,790314,AGNR,3,0,Rockingham County Schools
+19194,790314,ARCH,5,0,Rockingham County Schools
+19195,790314,HLTH,20,0,Rockingham County Schools
+19196,790314,HOSP,5,0,Rockingham County Schools
+19197,790314,HUMA,21,0,Rockingham County Schools
+19198,790314,LAW,1,0,Rockingham County Schools
+19199,790314,STEM,19,0,Rockingham County Schools
+19251,790354,AAVC,9,0,Rockingham County Schools
+19252,790354,HLTH,50,0,Rockingham County Schools
+19253,790354,HOSP,14,0,Rockingham County Schools
+19254,790354,HUMA,49,0,Rockingham County Schools
+19255,790354,STEM,10,0,Rockingham County Schools
+19256,790354,TRAN,10,0,Rockingham County Schools
+19299,790366,AAVC,36,1,Rockingham County Schools
+19300,790366,ARCH,10,1,Rockingham County Schools
+19301,790366,HLTH,10,1,Rockingham County Schools
+19302,790366,HOSP,17,1,Rockingham County Schools
+19303,790366,HUMA,4,1,Rockingham County Schools
+19304,790366,LAW,2,1,Rockingham County Schools
+19360,790378,AAVC,8,0,Rockingham County Schools
+19361,790378,AGNR,15,0,Rockingham County Schools
+19362,790378,ARCH,1,0,Rockingham County Schools
+19363,790378,HLTH,26,0,Rockingham County Schools
+19364,790378,HOSP,26,0,Rockingham County Schools
+19365,790378,HUMA,8,0,Rockingham County Schools
+19366,790378,LAW,28,0,Rockingham County Schools
+19367,790378,TRAN,13,0,Rockingham County Schools
+19396,790379,LAW,2,0,Rockingham County Schools
+19397,790379,MANU,1,0,Rockingham County Schools
+19466,800340,AGNR,26,0,Rowan-Salisbury Schools
+19467,800340,ARCH,35,0,Rowan-Salisbury Schools
+19468,800340,BMA,8,0,Rowan-Salisbury Schools
+19469,800340,HLTH,17,0,Rowan-Salisbury Schools
+19470,800340,HOSP,3,0,Rowan-Salisbury Schools
+19471,800340,HUMA,49,0,Rowan-Salisbury Schools
+19472,800340,INFO,4,0,Rowan-Salisbury Schools
+19519,800361,AGNR,23,0,Rowan-Salisbury Schools
+19520,800361,ARCH,12,0,Rowan-Salisbury Schools
+19521,800361,HLTH,20,0,Rowan-Salisbury Schools
+19522,800361,HOSP,3,0,Rowan-Salisbury Schools
+19523,800361,HUMA,55,0,Rowan-Salisbury Schools
+19524,800361,LAW,1,0,Rowan-Salisbury Schools
+19525,800361,MANU,24,0,Rowan-Salisbury Schools
+19574,800376,AAVC,1,0,Rowan-Salisbury Schools
+19575,800376,ARCH,2,0,Rowan-Salisbury Schools
+19576,800376,EDUC,1,0,Rowan-Salisbury Schools
+19577,800376,HLTH,10,0,Rowan-Salisbury Schools
+19578,800376,HUMA,2,0,Rowan-Salisbury Schools
+19579,800376,TRAN,1,0,Rowan-Salisbury Schools
+19628,800396,HLTH,13,0,Rowan-Salisbury Schools
+19629,800396,HOSP,20,0,Rowan-Salisbury Schools
+19630,800396,HUMA,17,0,Rowan-Salisbury Schools
+19631,800396,INFO,1,0,Rowan-Salisbury Schools
+19632,800396,LAW,2,0,Rowan-Salisbury Schools
+19633,800396,MANU,1,0,Rowan-Salisbury Schools
+19685,800400,AAVC,52,0,Rowan-Salisbury Schools
+19686,800400,AGNR,33,0,Rowan-Salisbury Schools
+19687,800400,ARCH,29,0,Rowan-Salisbury Schools
+19688,800400,HLTH,18,0,Rowan-Salisbury Schools
+19689,800400,HOSP,43,0,Rowan-Salisbury Schools
+19690,800400,HUMA,4,0,Rowan-Salisbury Schools
+19691,800400,INFO,1,0,Rowan-Salisbury Schools
+19692,800400,MANU,17,0,Rowan-Salisbury Schools
+19693,800400,TRAN,1,0,Rowan-Salisbury Schools
+19744,800408,AAVC,20,0,Rowan-Salisbury Schools
+19745,800408,AGNR,86,0,Rowan-Salisbury Schools
+19746,800408,ARCH,27,0,Rowan-Salisbury Schools
+19747,800408,HLTH,10,0,Rowan-Salisbury Schools
+19748,800408,HUMA,1,0,Rowan-Salisbury Schools
+19749,800408,STEM,1,0,Rowan-Salisbury Schools
+19801,810324,AAVC,10,0,Rutherford County Schools
+19802,810324,AGNR,26,0,Rutherford County Schools
+19803,810324,ARCH,15,0,Rutherford County Schools
+19804,810324,FINA,1,0,Rutherford County Schools
+19805,810324,HLTH,11,0,Rutherford County Schools
+19806,810324,HOSP,13,0,Rutherford County Schools
+19807,810324,HUMA,51,0,Rutherford County Schools
+19808,810324,LAW,3,0,Rutherford County Schools
+19809,810324,MANU,1,0,Rutherford County Schools
+19866,810340,AGNR,14,0,Rutherford County Schools
+19867,810340,ARCH,9,0,Rutherford County Schools
+19868,810340,HLTH,18,0,Rutherford County Schools
+19869,810340,HOSP,8,0,Rutherford County Schools
+19870,810340,HUMA,55,0,Rutherford County Schools
+19871,810340,LAW,4,0,Rutherford County Schools
+19872,810340,MANU,5,0,Rutherford County Schools
+19873,810340,STEM,1,0,Rutherford County Schools
+19874,810340,TRAN,8,0,Rutherford County Schools
+19932,810384,AGNR,9,0,Rutherford County Schools
+19933,810384,ARCH,26,0,Rutherford County Schools
+19934,810384,BMA,6,0,Rutherford County Schools
+19935,810384,HLTH,16,0,Rutherford County Schools
+19936,810384,HOSP,7,0,Rutherford County Schools
+19937,810384,HUMA,31,0,Rutherford County Schools
+19938,810384,LAW,1,0,Rutherford County Schools
+19939,810384,STEM,3,0,Rutherford County Schools
+19940,810384,TRAN,12,0,Rutherford County Schools
+20014,820324,ARCH,1,1,Sampson County Schools
+20015,820324,HLTH,1,1,Sampson County Schools
+20016,820324,MANU,3,1,Sampson County Schools
+20017,820324,STEM,1,1,Sampson County Schools
+20058,820348,AGNR,29,1,Sampson County Schools
+20059,820348,BMA,10,1,Sampson County Schools
+20060,820348,EDUC,1,1,Sampson County Schools
+20061,820348,HLTH,17,1,Sampson County Schools
+20062,820348,HUMA,19,1,Sampson County Schools
+20100,820349,AGNR,21,1,Sampson County Schools
+20101,820349,ARCH,11,1,Sampson County Schools
+20102,820349,BMA,1,1,Sampson County Schools
+20103,820349,EDUC,1,1,Sampson County Schools
+20104,820349,HUMA,34,1,Sampson County Schools
+20151,820352,AGNR,46,1,Sampson County Schools
+20152,820352,ARCH,14,1,Sampson County Schools
+20153,820352,BMA,32,1,Sampson County Schools
+20154,820352,HOSP,17,1,Sampson County Schools
+20155,820352,HUMA,41,1,Sampson County Schools
+20156,820352,MRKT,12,1,Sampson County Schools
+20157,820352,STEM,20,1,Sampson County Schools
+20158,820352,TRAN,11,1,Sampson County Schools
+20203,820388,AAVC,6,1,Sampson County Schools
+20204,820388,AGNR,37,1,Sampson County Schools
+20205,820388,HUMA,54,1,Sampson County Schools
+20206,820388,STEM,19,1,Sampson County Schools
+20261,821308,AAVC,5,0,Clinton City Schools
+20262,821308,AGNR,26,0,Clinton City Schools
+20263,821308,HLTH,34,0,Clinton City Schools
+20264,821308,HOSP,26,0,Clinton City Schools
+20265,821308,HUMA,37,0,Clinton City Schools
+20266,821308,LAW,35,0,Clinton City Schools
+20267,821308,STEM,13,0,Clinton City Schools
+20299,830316,BMA,2,0,Scotland County Schools
+20300,830316,HOSP,3,0,Scotland County Schools
+20350,830343,AAVC,18,0,Scotland County Schools
+20351,830343,AGNR,5,0,Scotland County Schools
+20352,830343,ARCH,28,0,Scotland County Schools
+20353,830343,HLTH,68,0,Scotland County Schools
+20354,830343,HOSP,35,0,Scotland County Schools
+20355,830343,LAW,38,0,Scotland County Schools
+20356,830343,MANU,4,0,Scotland County Schools
+20357,830343,MRKT,9,0,Scotland County Schools
+20358,830343,STEM,13,0,Scotland County Schools
+20359,830343,TRAN,18,0,Scotland County Schools
+20412,840302,ARCH,1,0,Stanly County Schools
+20413,840302,HLTH,35,0,Stanly County Schools
+20414,840302,HUMA,18,0,Stanly County Schools
+20415,840302,LAW,15,0,Stanly County Schools
+20416,840302,MANU,31,0,Stanly County Schools
+20417,840302,TRAN,1,0,Stanly County Schools
+20469,840332,AAVC,6,0,Stanly County Schools
+20470,840332,AGNR,22,0,Stanly County Schools
+20471,840332,ARCH,13,0,Stanly County Schools
+20472,840332,HLTH,57,0,Stanly County Schools
+20473,840332,HUMA,49,0,Stanly County Schools
+20474,840332,LAW,1,0,Stanly County Schools
+20475,840332,MANU,12,0,Stanly County Schools
+20476,840332,STEM,10,0,Stanly County Schools
+20525,840356,ARCH,7,0,Stanly County Schools
+20526,840356,HLTH,17,0,Stanly County Schools
+20527,840356,HUMA,33,0,Stanly County Schools
+20528,840356,LAW,1,0,Stanly County Schools
+20529,840356,MANU,8,0,Stanly County Schools
+20530,840356,STEM,5,0,Stanly County Schools
+20531,840356,TRAN,2,0,Stanly County Schools
+20570,840361,BMA,3,0,Stanly County Schools
+20571,840361,INFO,1,0,Stanly County Schools
+20572,840361,MANU,1,0,Stanly County Schools
+20623,840368,AAVC,5,0,Stanly County Schools
+20624,840368,AGNR,6,0,Stanly County Schools
+20625,840368,ARCH,9,0,Stanly County Schools
+20626,840368,FINA,3,0,Stanly County Schools
+20627,840368,HLTH,33,0,Stanly County Schools
+20628,840368,HUMA,23,0,Stanly County Schools
+20629,840368,MANU,30,0,Stanly County Schools
+20630,840368,TRAN,14,0,Stanly County Schools
+20662,840370,HUMA,3,1,Stanly County Schools
+20710,850324,AGNR,1,1,Stokes County Schools
+20757,850332,AAVC,9,0,Stokes County Schools
+20758,850332,AGNR,16,0,Stokes County Schools
+20759,850332,ARCH,2,0,Stokes County Schools
+20760,850332,HLTH,16,0,Stokes County Schools
+20761,850332,HUMA,3,0,Stokes County Schools
+20762,850332,TRAN,6,0,Stokes County Schools
+20805,850352,AGNR,12,0,Stokes County Schools
+20806,850352,ARCH,4,0,Stokes County Schools
+20807,850352,EDUC,9,0,Stokes County Schools
+20808,850352,HLTH,19,0,Stokes County Schools
+20809,850352,HUMA,30,0,Stokes County Schools
+20810,850352,INFO,6,0,Stokes County Schools
+20811,850352,TRAN,4,0,Stokes County Schools
+20862,850358,AAVC,12,0,Stokes County Schools
+20863,850358,AGNR,10,0,Stokes County Schools
+20864,850358,ARCH,28,0,Stokes County Schools
+20865,850358,BMA,1,0,Stokes County Schools
+20866,850358,EDUC,1,0,Stokes County Schools
+20867,850358,HLTH,38,0,Stokes County Schools
+20868,850358,HUMA,15,0,Stokes County Schools
+20869,850358,MRKT,1,0,Stokes County Schools
+20893,850360,EDUC,6,0,Stokes County Schools
+20945,860316,AAVC,29,0,Surry County Schools
+20946,860316,AGNR,9,0,Surry County Schools
+20947,860316,ARCH,25,0,Surry County Schools
+20948,860316,BMA,5,0,Surry County Schools
+20949,860316,HLTH,35,0,Surry County Schools
+20950,860316,HOSP,11,0,Surry County Schools
+20951,860316,HUMA,7,0,Surry County Schools
+20952,860316,INFO,1,0,Surry County Schools
+20953,860316,MANU,2,0,Surry County Schools
+20954,860316,STEM,11,0,Surry County Schools
+21015,860336,AAVC,9,0,Surry County Schools
+21016,860336,AGNR,27,0,Surry County Schools
+21017,860336,ARCH,7,0,Surry County Schools
+21018,860336,BMA,4,0,Surry County Schools
+21019,860336,EDUC,8,0,Surry County Schools
+21020,860336,HLTH,21,0,Surry County Schools
+21021,860336,HUMA,40,0,Surry County Schools
+21022,860336,MANU,4,0,Surry County Schools
+21023,860336,STEM,19,0,Surry County Schools
+21024,860336,TRAN,3,0,Surry County Schools
+21087,860352,AAVC,15,0,Surry County Schools
+21088,860352,AGNR,11,0,Surry County Schools
+21089,860352,ARCH,1,0,Surry County Schools
+21090,860352,HLTH,35,0,Surry County Schools
+21091,860352,HOSP,17,0,Surry County Schools
+21092,860352,HUMA,66,0,Surry County Schools
+21093,860352,LAW,2,0,Surry County Schools
+21094,860352,MANU,3,0,Surry County Schools
+21095,860352,TRAN,1,0,Surry County Schools
+21140,860354,ARCH,4,0,Surry County Schools
+21141,860354,BMA,4,0,Surry County Schools
+21142,860354,FINA,2,0,Surry County Schools
+21143,860354,HLTH,2,0,Surry County Schools
+21144,860354,INFO,2,0,Surry County Schools
+21145,860354,LAW,3,0,Surry County Schools
+21146,860354,MANU,4,0,Surry County Schools
+21147,860354,STEM,1,0,Surry County Schools
+21148,860354,TRAN,3,0,Surry County Schools
+21196,861308,AAVC,8,0,Elkin City Schools
+21197,861308,AGNR,9,0,Elkin City Schools
+21198,861308,BMA,17,0,Elkin City Schools
+21199,861308,HLTH,15,0,Elkin City Schools
+21200,861308,HOSP,1,0,Elkin City Schools
+21201,861308,HUMA,29,0,Elkin City Schools
+21202,861308,INFO,1,0,Elkin City Schools
+21203,861308,STEM,13,0,Elkin City Schools
+21251,862312,AAVC,9,0,Mount Airy City Schools
+21252,862312,ARCH,5,0,Mount Airy City Schools
+21253,862312,BMA,4,0,Mount Airy City Schools
+21254,862312,EDUC,1,0,Mount Airy City Schools
+21255,862312,HLTH,17,0,Mount Airy City Schools
+21256,862312,HUMA,8,0,Mount Airy City Schools
+21257,862312,MANU,23,0,Mount Airy City Schools
+21306,870314,AAVC,11,0,Swain County Schools
+21307,870314,AGNR,7,0,Swain County Schools
+21308,870314,ARCH,1,0,Swain County Schools
+21309,870314,HLTH,22,0,Swain County Schools
+21310,870314,HUMA,13,0,Swain County Schools
+21311,870314,MANU,3,0,Swain County Schools
+21312,870314,STEM,16,0,Swain County Schools
+21313,870314,TRAN,4,0,Swain County Schools
+21370,880308,AAVC,11,0,Transylvania County Schools
+21371,880308,AGNR,22,0,Transylvania County Schools
+21372,880308,ARCH,21,0,Transylvania County Schools
+21373,880308,HLTH,15,0,Transylvania County Schools
+21374,880308,MANU,7,0,Transylvania County Schools
+21375,880308,STEM,19,0,Transylvania County Schools
+21376,880308,TRAN,3,0,Transylvania County Schools
+21424,880320,HLTH,1,0,Transylvania County Schools
+21425,880320,MANU,1,0,Transylvania County Schools
+21426,880320,TRAN,6,0,Transylvania County Schools
+21471,880328,AGNR,9,0,Transylvania County Schools
+21472,880328,ARCH,14,0,Transylvania County Schools
+21473,880328,HLTH,7,0,Transylvania County Schools
+21474,880328,HOSP,6,0,Transylvania County Schools
+21475,880328,MANU,5,0,Transylvania County Schools
+21476,880328,TRAN,4,0,Transylvania County Schools
+21513,890304,AGNR,6,1,Tyrrell County Schools
+21514,890304,HLTH,14,1,Tyrrell County Schools
+21515,890304,MANU,6,1,Tyrrell County Schools
+21567,900311,AAVC,18,0,Union County Public Schools
+21568,900311,AGNR,45,0,Union County Public Schools
+21569,900311,ARCH,14,0,Union County Public Schools
+21570,900311,BMA,3,0,Union County Public Schools
+21571,900311,FINA,18,0,Union County Public Schools
+21572,900311,HLTH,47,0,Union County Public Schools
+21573,900311,HOSP,19,0,Union County Public Schools
+21574,900311,HUMA,2,0,Union County Public Schools
+21575,900311,INFO,1,0,Union County Public Schools
+21576,900311,LAW,1,0,Union County Public Schools
+21577,900311,STEM,10,0,Union County Public Schools
+21633,900316,AAVC,13,0,Union County Public Schools
+21634,900316,AGNR,24,0,Union County Public Schools
+21635,900316,ARCH,13,0,Union County Public Schools
+21636,900316,HLTH,6,0,Union County Public Schools
+21637,900316,HOSP,6,0,Union County Public Schools
+21638,900316,HUMA,2,0,Union County Public Schools
+21639,900316,STEM,4,0,Union County Public Schools
+21640,900316,TRAN,12,0,Union County Public Schools
+21694,900336,AGNR,14,0,Union County Public Schools
+21695,900336,ARCH,16,0,Union County Public Schools
+21696,900336,HUMA,1,0,Union County Public Schools
+21697,900336,INFO,1,0,Union County Public Schools
+21698,900336,MANU,1,0,Union County Public Schools
+21699,900336,STEM,4,0,Union County Public Schools
+21752,900342,AAVC,11,0,Union County Public Schools
+21753,900342,AGNR,23,0,Union County Public Schools
+21754,900342,ARCH,10,0,Union County Public Schools
+21755,900342,BMA,5,0,Union County Public Schools
+21756,900342,FINA,5,0,Union County Public Schools
+21757,900342,HLTH,32,0,Union County Public Schools
+21758,900342,HOSP,47,0,Union County Public Schools
+21759,900342,HUMA,1,0,Union County Public Schools
+21760,900342,INFO,8,0,Union County Public Schools
+21761,900342,STEM,7,0,Union County Public Schools
+21762,900342,TRAN,2,0,Union County Public Schools
+21813,900344,AGNR,31,0,Union County Public Schools
+21814,900344,ARCH,4,0,Union County Public Schools
+21815,900344,HLTH,22,0,Union County Public Schools
+21816,900344,HOSP,20,0,Union County Public Schools
+21817,900344,HUMA,1,0,Union County Public Schools
+21818,900344,LAW,1,0,Union County Public Schools
+21819,900344,STEM,18,0,Union County Public Schools
+21820,900344,TRAN,1,0,Union County Public Schools
+21877,900348,AAVC,3,0,Union County Public Schools
+21878,900348,AGNR,47,0,Union County Public Schools
+21879,900348,ARCH,6,0,Union County Public Schools
+21880,900348,BMA,1,0,Union County Public Schools
+21881,900348,HLTH,22,0,Union County Public Schools
+21882,900348,HOSP,43,0,Union County Public Schools
+21883,900348,HUMA,2,0,Union County Public Schools
+21884,900348,INFO,2,0,Union County Public Schools
+21885,900348,LAW,6,0,Union County Public Schools
+21886,900348,MANU,1,0,Union County Public Schools
+21887,900348,TRAN,1,0,Union County Public Schools
+21945,900360,AAVC,2,0,Union County Public Schools
+21946,900360,AGNR,31,0,Union County Public Schools
+21947,900360,ARCH,5,0,Union County Public Schools
+21948,900360,BMA,2,0,Union County Public Schools
+21949,900360,HLTH,15,0,Union County Public Schools
+21950,900360,HOSP,23,0,Union County Public Schools
+21951,900360,HUMA,1,0,Union County Public Schools
+21952,900360,MRKT,9,0,Union County Public Schools
+21953,900360,STEM,16,0,Union County Public Schools
+21954,900360,TRAN,7,0,Union County Public Schools
+22000,900366,AAVC,43,0,Union County Public Schools
+22001,900366,HLTH,54,0,Union County Public Schools
+22002,900366,INFO,71,0,Union County Public Schools
+22003,900366,LAW,10,0,Union County Public Schools
+22004,900366,STEM,32,0,Union County Public Schools
+22005,900366,TRAN,20,0,Union County Public Schools
+22055,900377,AGNR,24,0,Union County Public Schools
+22056,900377,ARCH,1,0,Union County Public Schools
+22057,900377,BMA,2,0,Union County Public Schools
+22058,900377,FINA,28,0,Union County Public Schools
+22059,900377,HLTH,54,0,Union County Public Schools
+22060,900377,HOSP,31,0,Union County Public Schools
+22061,900377,INFO,16,0,Union County Public Schools
+22062,900377,LAW,1,0,Union County Public Schools
+22063,900377,STEM,19,0,Union County Public Schools
+22119,900393,AAVC,37,0,Union County Public Schools
+22120,900393,BMA,2,0,Union County Public Schools
+22121,900393,HLTH,24,0,Union County Public Schools
+22122,900393,HOSP,51,0,Union County Public Schools
+22123,900393,HUMA,2,0,Union County Public Schools
+22124,900393,INFO,57,0,Union County Public Schools
+22125,900393,STEM,17,0,Union County Public Schools
+22161,90A000,BMA,2,0,Charter Schools
+22162,90A000,MANU,1,0,Charter Schools
+22192,910368,HUMA,1,1,Vance County Schools
+22236,910370,AGNR,13,0,Vance County Schools
+22237,910370,ARCH,1,0,Vance County Schools
+22238,910370,HLTH,4,0,Vance County Schools
+22239,910370,HOSP,13,0,Vance County Schools
+22240,910370,HUMA,69,0,Vance County Schools
+22241,910370,LAW,7,0,Vance County Schools
+22242,910370,TRAN,6,0,Vance County Schools
+22299,920316,AAVC,20,0,Wake County Schools
+22300,920316,AGNR,34,0,Wake County Schools
+22301,920316,ARCH,84,0,Wake County Schools
+22302,920316,BMA,16,0,Wake County Schools
+22303,920316,FINA,4,0,Wake County Schools
+22304,920316,HLTH,24,0,Wake County Schools
+22305,920316,HOSP,47,0,Wake County Schools
+22306,920316,HUMA,1,0,Wake County Schools
+22307,920316,INFO,4,0,Wake County Schools
+22308,920316,MRKT,19,0,Wake County Schools
+22309,920316,TRAN,1,0,Wake County Schools
+22369,920318,AAVC,31,0,Wake County Schools
+22370,920318,AGNR,21,0,Wake County Schools
+22371,920318,ARCH,48,0,Wake County Schools
+22372,920318,HLTH,60,0,Wake County Schools
+22373,920318,HUMA,31,0,Wake County Schools
+22374,920318,INFO,34,0,Wake County Schools
+22375,920318,LAW,28,0,Wake County Schools
+22455,920348,AAVC,113,0,Wake County Schools
+22456,920348,ARCH,53,0,Wake County Schools
+22457,920348,BMA,1,0,Wake County Schools
+22458,920348,HOSP,71,0,Wake County Schools
+22459,920348,HUMA,73,0,Wake County Schools
+22460,920348,LAW,1,0,Wake County Schools
+22461,920348,TRAN,13,0,Wake County Schools
+22517,920368,AAVC,62,0,Wake County Schools
+22518,920368,AGNR,5,0,Wake County Schools
+22519,920368,ARCH,17,0,Wake County Schools
+22520,920368,BMA,35,0,Wake County Schools
+22521,920368,FINA,10,0,Wake County Schools
+22522,920368,HLTH,20,0,Wake County Schools
+22523,920368,HOSP,16,0,Wake County Schools
+22524,920368,HUMA,8,0,Wake County Schools
+22525,920368,INFO,8,0,Wake County Schools
+22526,920368,MANU,10,0,Wake County Schools
+22527,920368,STEM,12,0,Wake County Schools
+22583,920411,AAVC,37,1,Wake County Schools
+22584,920411,AGNR,34,1,Wake County Schools
+22585,920411,ARCH,6,1,Wake County Schools
+22586,920411,BMA,1,1,Wake County Schools
+22587,920411,HLTH,36,1,Wake County Schools
+22588,920411,HOSP,4,1,Wake County Schools
+22589,920411,HUMA,22,1,Wake County Schools
+22590,920411,TRAN,7,1,Wake County Schools
+22647,920412,AAVC,70,0,Wake County Schools
+22648,920412,ARCH,18,0,Wake County Schools
+22649,920412,HLTH,101,0,Wake County Schools
+22650,920412,HOSP,27,0,Wake County Schools
+22651,920412,HUMA,58,0,Wake County Schools
+22652,920412,INFO,3,0,Wake County Schools
+22653,920412,STEM,26,0,Wake County Schools
+22654,920412,TRAN,1,0,Wake County Schools
+22711,920428,AAVC,67,0,Wake County Schools
+22712,920428,AGNR,45,0,Wake County Schools
+22713,920428,ARCH,17,0,Wake County Schools
+22714,920428,BMA,8,0,Wake County Schools
+22715,920428,EDUC,4,0,Wake County Schools
+22716,920428,FINA,8,0,Wake County Schools
+22717,920428,HLTH,18,0,Wake County Schools
+22718,920428,HUMA,37,0,Wake County Schools
+22719,920428,INFO,30,0,Wake County Schools
+22720,920428,STEM,55,0,Wake County Schools
+22782,920436,AAVC,10,0,Wake County Schools
+22783,920436,AGNR,15,0,Wake County Schools
+22784,920436,ARCH,1,0,Wake County Schools
+22785,920436,HLTH,59,0,Wake County Schools
+22786,920436,HUMA,56,0,Wake County Schools
+22787,920436,INFO,9,0,Wake County Schools
+22788,920436,LAW,29,0,Wake County Schools
+22789,920436,MRKT,14,0,Wake County Schools
+22790,920436,STEM,27,0,Wake County Schools
+22791,920436,TRAN,7,0,Wake County Schools
+22845,920441,AAVC,35,0,Wake County Schools
+22846,920441,ARCH,18,0,Wake County Schools
+22847,920441,BMA,14,0,Wake County Schools
+22848,920441,FINA,19,0,Wake County Schools
+22849,920441,HLTH,56,0,Wake County Schools
+22850,920441,HOSP,60,0,Wake County Schools
+22851,920441,HUMA,31,0,Wake County Schools
+22852,920441,INFO,53,0,Wake County Schools
+22853,920441,MANU,13,0,Wake County Schools
+22910,920445,AAVC,20,0,Wake County Schools
+22911,920445,AGNR,32,0,Wake County Schools
+22912,920445,ARCH,58,0,Wake County Schools
+22913,920445,BMA,10,0,Wake County Schools
+22914,920445,HLTH,28,0,Wake County Schools
+22915,920445,HOSP,5,0,Wake County Schools
+22916,920445,HUMA,15,0,Wake County Schools
+22917,920445,INFO,8,0,Wake County Schools
+22970,920455,AAVC,77,0,Wake County Schools
+22971,920455,ARCH,37,0,Wake County Schools
+22972,920455,BMA,15,0,Wake County Schools
+22973,920455,HLTH,18,0,Wake County Schools
+22974,920455,HOSP,56,0,Wake County Schools
+22975,920455,HUMA,47,0,Wake County Schools
+22976,920455,STEM,43,0,Wake County Schools
+23034,920466,AAVC,60,1,Wake County Schools
+23035,920466,AGNR,22,1,Wake County Schools
+23036,920466,ARCH,6,1,Wake County Schools
+23037,920466,HUMA,34,1,Wake County Schools
+23038,920466,INFO,8,1,Wake County Schools
+23039,920466,LAW,13,1,Wake County Schools
+23093,920473,AAVC,76,0,Wake County Schools
+23094,920473,ARCH,42,0,Wake County Schools
+23095,920473,BMA,9,0,Wake County Schools
+23096,920473,HLTH,25,0,Wake County Schools
+23097,920473,HOSP,58,0,Wake County Schools
+23098,920473,HUMA,38,0,Wake County Schools
+23099,920473,STEM,18,0,Wake County Schools
+23143,920495,AAVC,126,0,Wake County Schools
+23144,920495,ARCH,24,0,Wake County Schools
+23145,920495,BMA,8,0,Wake County Schools
+23146,920495,HLTH,28,0,Wake County Schools
+23147,920495,HOSP,11,0,Wake County Schools
+23148,920495,HUMA,30,0,Wake County Schools
+23149,920495,STEM,72,0,Wake County Schools
+23204,920500,AAVC,69,0,Wake County Schools
+23205,920500,AGNR,60,0,Wake County Schools
+23206,920500,ARCH,11,0,Wake County Schools
+23207,920500,BMA,10,0,Wake County Schools
+23208,920500,HLTH,13,0,Wake County Schools
+23209,920500,HOSP,31,0,Wake County Schools
+23210,920500,HUMA,45,0,Wake County Schools
+23211,920500,MRKT,10,0,Wake County Schools
+23252,920526,AAVC,98,0,Wake County Schools
+23253,920526,AGNR,1,0,Wake County Schools
+23254,920526,ARCH,16,0,Wake County Schools
+23255,920526,BMA,36,0,Wake County Schools
+23256,920526,FINA,17,0,Wake County Schools
+23257,920526,HLTH,2,0,Wake County Schools
+23258,920526,HUMA,41,0,Wake County Schools
+23259,920526,INFO,148,0,Wake County Schools
+23260,920526,STEM,27,0,Wake County Schools
+23279,920528,HOSP,2,1,Wake County Schools
+23280,920528,HUMA,7,1,Wake County Schools
+23314,920546,AAVC,13,0,Wake County Schools
+23315,920546,AGNR,25,0,Wake County Schools
+23316,920546,ARCH,6,0,Wake County Schools
+23317,920546,BMA,1,0,Wake County Schools
+23318,920546,FINA,2,0,Wake County Schools
+23319,920546,HLTH,41,0,Wake County Schools
+23320,920546,HOSP,31,0,Wake County Schools
+23321,920546,HUMA,36,0,Wake County Schools
+23322,920546,MRKT,23,0,Wake County Schools
+23323,920546,STEM,19,0,Wake County Schools
+23360,920552,AAVC,20,0,Wake County Schools
+23361,920552,ARCH,28,0,Wake County Schools
+23362,920552,BMA,8,0,Wake County Schools
+23363,920552,HOSP,58,0,Wake County Schools
+23364,920552,HUMA,38,0,Wake County Schools
+23365,920552,INFO,6,0,Wake County Schools
+23366,920552,MRKT,2,0,Wake County Schools
+23367,920552,STEM,2,0,Wake County Schools
+23410,920562,AAVC,36,1,Wake County Schools
+23411,920562,ARCH,7,1,Wake County Schools
+23412,920562,BMA,5,1,Wake County Schools
+23413,920562,FINA,2,1,Wake County Schools
+23414,920562,HLTH,40,1,Wake County Schools
+23415,920562,HOSP,24,1,Wake County Schools
+23416,920562,HUMA,44,1,Wake County Schools
+23417,920562,INFO,16,1,Wake County Schools
+23418,920562,MRKT,1,1,Wake County Schools
+23419,920562,STEM,13,1,Wake County Schools
+23456,920581,AAVC,12,0,Wake County Schools
+23457,920581,ARCH,28,0,Wake County Schools
+23458,920581,BMA,9,0,Wake County Schools
+23459,920581,HLTH,31,0,Wake County Schools
+23460,920581,HUMA,10,0,Wake County Schools
+23461,920581,MANU,19,0,Wake County Schools
+23474,920583,HLTH,34,0,Wake County Schools
+23475,920583,LAW,4,0,Wake County Schools
+23481,920585,BMA,22,0,Wake County Schools
+23488,920586,BMA,25,0,Wake County Schools
+23521,920588,AAVC,57,0,Wake County Schools
+23522,920588,AGNR,69,0,Wake County Schools
+23523,920588,ARCH,20,0,Wake County Schools
+23524,920588,HLTH,29,0,Wake County Schools
+23525,920588,HOSP,26,0,Wake County Schools
+23526,920588,HUMA,24,0,Wake County Schools
+23527,920588,STEM,14,0,Wake County Schools
+23528,920588,TRAN,3,0,Wake County Schools
+23567,920595,AAVC,68,0,Wake County Schools
+23568,920595,AGNR,22,0,Wake County Schools
+23569,920595,ARCH,30,0,Wake County Schools
+23570,920595,BMA,1,0,Wake County Schools
+23571,920595,HUMA,10,0,Wake County Schools
+23572,920595,INFO,12,0,Wake County Schools
+23573,920595,MANU,1,0,Wake County Schools
+23574,920595,STEM,39,0,Wake County Schools
+23601,92F000,BMA,1,0,Charter Schools
+23602,92F000,HLTH,2,0,Charter Schools
+23603,92F000,INFO,1,0,Charter Schools
+23654,930352,BMA,1,1,Warren County Schools
+23655,930352,HLTH,8,1,Warren County Schools
+23656,930352,HUMA,21,1,Warren County Schools
+23657,930352,MRKT,11,1,Warren County Schools
+23676,940316,AAVC,7,0,Washington County Schools
+23677,940316,AGNR,18,0,Washington County Schools
+23678,940316,BMA,3,0,Washington County Schools
+23679,940316,HLTH,12,0,Washington County Schools
+23680,940316,HUMA,25,0,Washington County Schools
+23710,94Z000,AGNR,34,1,Regional Schools
+23747,950336,AAVC,7,0,Watauga County Schools
+23748,950336,AGNR,4,0,Watauga County Schools
+23749,950336,ARCH,22,0,Watauga County Schools
+23750,950336,HLTH,16,0,Watauga County Schools
+23751,950336,HOSP,22,0,Watauga County Schools
+23752,950336,HUMA,33,0,Watauga County Schools
+23753,950336,MANU,10,0,Watauga County Schools
+23754,950336,MRKT,8,0,Watauga County Schools
+23755,950336,STEM,2,0,Watauga County Schools
+23756,950336,TRAN,8,0,Watauga County Schools
+23801,960324,AGNR,26,0,Wayne County Public Schools
+23802,960324,ARCH,18,0,Wayne County Public Schools
+23803,960324,HLTH,24,0,Wayne County Public Schools
+23804,960324,HOSP,14,0,Wayne County Public Schools
+23805,960324,HUMA,52,0,Wayne County Public Schools
+23806,960324,INFO,2,0,Wayne County Public Schools
+23807,960324,STEM,26,0,Wayne County Public Schools
+23808,960324,TRAN,25,0,Wayne County Public Schools
+23849,960330,AAVC,5,0,Wayne County Public Schools
+23850,960330,AGNR,17,0,Wayne County Public Schools
+23851,960330,ARCH,9,0,Wayne County Public Schools
+23852,960330,HLTH,21,0,Wayne County Public Schools
+23853,960330,HOSP,9,0,Wayne County Public Schools
+23854,960330,HUMA,51,0,Wayne County Public Schools
+23855,960330,TRAN,11,0,Wayne County Public Schools
+23885,960335,ARCH,3,0,Wayne County Public Schools
+23886,960335,HLTH,8,0,Wayne County Public Schools
+23887,960335,HUMA,2,0,Wayne County Public Schools
+23888,960335,LAW,3,0,Wayne County Public Schools
+23889,960335,MANU,3,0,Wayne County Public Schools
+23922,960372,AGNR,13,0,Wayne County Public Schools
+23923,960372,HLTH,7,0,Wayne County Public Schools
+23924,960372,HUMA,26,0,Wayne County Public Schools
+23956,960380,AGNR,23,0,Wayne County Public Schools
+23957,960380,ARCH,48,0,Wayne County Public Schools
+23958,960380,HLTH,5,0,Wayne County Public Schools
+23959,960380,HUMA,57,0,Wayne County Public Schools
+23960,960380,LAW,17,0,Wayne County Public Schools
+23961,960380,TRAN,24,0,Wayne County Public Schools
+23993,960386,AGNR,38,0,Wayne County Public Schools
+23994,960386,BMA,2,0,Wayne County Public Schools
+23995,960386,HLTH,17,0,Wayne County Public Schools
+23996,960386,HUMA,6,0,Wayne County Public Schools
+24014,960700,AAVC,3,0,Wayne County Public Schools
+24015,960700,ARCH,1,0,Wayne County Public Schools
+24016,960700,BMA,3,0,Wayne County Public Schools
+24017,960700,HLTH,1,0,Wayne County Public Schools
+24018,960700,INFO,1,0,Wayne County Public Schools
+24019,960700,STEM,32,0,Wayne County Public Schools
+24050,970320,AGNR,8,0,Wilkes County Schools
+24051,970320,EDUC,5,0,Wilkes County Schools
+24052,970320,HLTH,17,0,Wilkes County Schools
+24053,970320,HUMA,17,0,Wilkes County Schools
+24054,970320,INFO,2,0,Wilkes County Schools
+24055,970320,LAW,1,0,Wilkes County Schools
+24056,970320,STEM,8,0,Wilkes County Schools
+24094,970356,AAVC,4,0,Wilkes County Schools
+24095,970356,AGNR,22,0,Wilkes County Schools
+24096,970356,ARCH,23,0,Wilkes County Schools
+24097,970356,BMA,1,0,Wilkes County Schools
+24098,970356,HLTH,25,0,Wilkes County Schools
+24099,970356,HUMA,32,0,Wilkes County Schools
+24100,970356,INFO,6,0,Wilkes County Schools
+24101,970356,LAW,9,0,Wilkes County Schools
+24102,970356,STEM,7,0,Wilkes County Schools
+24146,970388,AAVC,12,0,Wilkes County Schools
+24147,970388,AGNR,26,0,Wilkes County Schools
+24148,970388,ARCH,3,0,Wilkes County Schools
+24149,970388,BMA,2,0,Wilkes County Schools
+24150,970388,HLTH,25,0,Wilkes County Schools
+24151,970388,HUMA,15,0,Wilkes County Schools
+24152,970388,LAW,9,0,Wilkes County Schools
+24153,970388,MANU,1,0,Wilkes County Schools
+24154,970388,STEM,20,0,Wilkes County Schools
+24196,970390,AAVC,23,0,Wilkes County Schools
+24197,970390,AGNR,12,0,Wilkes County Schools
+24198,970390,ARCH,20,0,Wilkes County Schools
+24199,970390,BMA,1,0,Wilkes County Schools
+24200,970390,EDUC,3,0,Wilkes County Schools
+24201,970390,HLTH,26,0,Wilkes County Schools
+24202,970390,HOSP,8,0,Wilkes County Schools
+24203,970390,HUMA,7,0,Wilkes County Schools
+24204,970390,LAW,2,0,Wilkes County Schools
+24205,970390,STEM,28,0,Wilkes County Schools
+24228,970393,BMA,2,0,Wilkes County Schools
+24229,970393,INFO,1,0,Wilkes County Schools
+24230,970393,LAW,6,0,Wilkes County Schools
+24269,980318,AGNR,4,0,Wilson County Schools
+24270,980318,ARCH,4,0,Wilson County Schools
+24271,980318,HLTH,6,0,Wilson County Schools
+24272,980318,HUMA,22,0,Wilson County Schools
+24273,980318,INFO,4,0,Wilson County Schools
+24274,980318,LAW,12,0,Wilson County Schools
+24275,980318,TRAN,4,0,Wilson County Schools
+24308,980336,ARCH,8,0,Wilson County Schools
+24309,980336,BMA,8,0,Wilson County Schools
+24310,980336,HLTH,42,0,Wilson County Schools
+24311,980336,HUMA,63,0,Wilson County Schools
+24312,980336,INFO,8,0,Wilson County Schools
+24313,980336,LAW,19,0,Wilson County Schools
+24314,980336,STEM,6,0,Wilson County Schools
+24354,980342,AAVC,14,0,Wilson County Schools
+24355,980342,AGNR,49,0,Wilson County Schools
+24356,980342,ARCH,5,0,Wilson County Schools
+24357,980342,HLTH,11,0,Wilson County Schools
+24358,980342,HOSP,12,0,Wilson County Schools
+24359,980342,HUMA,26,0,Wilson County Schools
+24360,980342,STEM,3,0,Wilson County Schools
+24402,990322,AAVC,11,0,Yadkin County Schools
+24403,990322,AGNR,11,0,Yadkin County Schools
+24404,990322,ARCH,30,0,Yadkin County Schools
+24405,990322,HLTH,19,0,Yadkin County Schools
+24406,990322,HUMA,13,0,Yadkin County Schools
+24407,990322,LAW,1,0,Yadkin County Schools
+24408,990322,MANU,11,0,Yadkin County Schools
+24409,990322,STEM,12,0,Yadkin County Schools
+24410,990322,TRAN,4,0,Yadkin County Schools
+24449,990326,AAVC,12,0,Yadkin County Schools
+24450,990326,AGNR,12,0,Yadkin County Schools
+24451,990326,ARCH,29,0,Yadkin County Schools
+24452,990326,HLTH,20,0,Yadkin County Schools
+24453,990326,HOSP,12,0,Yadkin County Schools
+24454,990326,HUMA,7,0,Yadkin County Schools
+24455,990326,INFO,1,0,Yadkin County Schools
+24456,990326,LAW,1,0,Yadkin County Schools
+24457,990326,STEM,8,0,Yadkin County Schools
+24473,990332,BMA,4,0,Yadkin County Schools
+24474,990332,HUMA,1,0,Yadkin County Schools
+24475,990332,INFO,1,0,Yadkin County Schools
+24476,990332,LAW,2,0,Yadkin County Schools
+24477,990332,MANU,1,0,Yadkin County Schools
+24478,990332,STEM,1,0,Yadkin County Schools
+24479,990332,TRAN,1,0,Yadkin County Schools
+24521,995330,AAVC,3,0,Yancey County Schools
+24522,995330,AGNR,12,0,Yancey County Schools
+24523,995330,ARCH,32,0,Yancey County Schools
+24524,995330,HLTH,16,0,Yancey County Schools
+24525,995330,HUMA,34,0,Yancey County Schools
+24526,995330,MANU,13,0,Yancey County Schools
+24527,995330,STEM,1,0,Yancey County Schools
+24528,995330,TRAN,2,0,Yancey County Schools
+24579,150350,AGNR,2,0,Camden County Schools
+24580,150350,INFO,1,0,Camden County Schools
+24581,150350,LAW,2,0,Camden County Schools
+24582,150350,MANU,1,0,Camden County Schools
+24631,360372,TRAN,1,1,Gaston County Schools
+24667,390323,BMA,1,0,Granville County Schools
+24697,390352,AGNR,21,0,Granville County Schools
+24698,390352,ARCH,29,0,Granville County Schools
+24699,390352,BMA,6,0,Granville County Schools
+24700,390352,HLTH,23,0,Granville County Schools
+24750,460322,HLTH,1,1,Hertford County Schools
+24751,460322,INFO,1,1,Hertford County Schools
+24752,460322,MANU,2,1,Hertford County Schools
+24784,600404,ARCH,2,0,Charlotte-Mecklenburg Schools
+24785,600404,BMA,3,0,Charlotte-Mecklenburg Schools
+24786,600404,INFO,1,0,Charlotte-Mecklenburg Schools
+24787,600404,STEM,1,0,Charlotte-Mecklenburg Schools
+24830,600482,AAVC,28,0,Charlotte-Mecklenburg Schools
+24831,600482,LAW,1,0,Charlotte-Mecklenburg Schools
+24832,600482,MRKT,17,0,Charlotte-Mecklenburg Schools
+24864,600499,HOSP,1,0,Charlotte-Mecklenburg Schools
+24883,60I000,MANU,1,0,Charter Schools
+24884,60I000,STEM,2,0,Charter Schools
+24914,630330,HLTH,1,0,Moore County Schools
+25006,920386,HOSP,1,0,Wake County Schools
+25007,920386,INFO,1,0,Wake County Schools
+25049,00A000,EDUC,1,1,Charter Schools
+25056,010378,AGNR,1,0,Alamance-Burlington Schools
+25059,040304,MANU,2,0,Anson County Schools
+25068,110322,EDUC,1,0,Buncombe County Schools
+25069,110322,HUMA,1,0,Buncombe County Schools
+25077,110500,INFO,9,0,Buncombe County Schools
+25078,110500,STEM,89,0,Buncombe County Schools
+25091,140309,BMA,3,0,Caldwell County Schools
+25092,140309,EDUC,2,0,Caldwell County Schools
+25093,140309,LAW,1,0,Caldwell County Schools
+25105,34H000,ARCH,5,0,Charter Schools
+25119,400315,BMA,7,0,Greene County Schools
+25120,400315,MANU,1,0,Greene County Schools
+25128,410326,HLTH,2,1,Guilford County Schools
+25131,410391,STEM,1,1,Guilford County Schools
+25137,410589,AAVC,7,0,Guilford County Schools
+25138,410589,ARCH,4,0,Guilford County Schools
+25139,410589,HOSP,1,0,Guilford County Schools
+25143,41G000,INFO,1,0,Charter Schools
+25144,41G000,LAW,2,0,Charter Schools
+25161,490350,HOSP,1,0,Iredell-Statesville Schools
+25162,490350,HUMA,4,0,Iredell-Statesville Schools
+25172,49E000,AAVC,2,0,Charter Schools
+25173,49E000,INFO,16,0,Charter Schools
+25174,49E000,STEM,57,0,Charter Schools
+25185,510325,HLTH,18,0,Johnston County Schools
+25186,510325,HUMA,1,0,Johnston County Schools
+25187,510325,INFO,4,0,Johnston County Schools
+25209,590326,EDUC,1,0,McDowell County Schools
+25210,590326,LAW,1,0,McDowell County Schools
+25236,600490,AAVC,2,0,Charlotte-Mecklenburg Schools
+25237,600490,ARCH,12,0,Charlotte-Mecklenburg Schools
+25238,600490,BMA,24,0,Charlotte-Mecklenburg Schools
+25239,600490,HLTH,82,0,Charlotte-Mecklenburg Schools
+25240,600490,HOSP,109,0,Charlotte-Mecklenburg Schools
+25241,600490,INFO,1,0,Charlotte-Mecklenburg Schools
+25242,600490,MANU,13,0,Charlotte-Mecklenburg Schools
+25243,600490,STEM,70,0,Charlotte-Mecklenburg Schools
+25267,600594,HUMA,1,0,Charlotte-Mecklenburg Schools
+25299,660400,FINA,4,0,Northampton County Schools
+25300,660400,HLTH,1,0,Northampton County Schools
+25301,660400,LAW,2,0,Northampton County Schools
+25302,660400,TRAN,1,0,Northampton County Schools
+25310,740500,ARCH,1,1,Pitt County Schools
+25311,740500,BMA,3,1,Pitt County Schools
+25312,740500,INFO,1,1,Pitt County Schools
+25313,740500,LAW,1,1,Pitt County Schools
+25314,740500,MANU,2,1,Pitt County Schools
+25320,750317,BMA,1,0,Polk County Schools
+25321,750317,HLTH,1,0,Polk County Schools
+25354,920317,AAVC,29,0,Wake County Schools
+25355,920317,ARCH,36,0,Wake County Schools
+25356,920317,BMA,11,0,Wake County Schools
+25357,920317,HLTH,41,0,Wake County Schools
+25358,920317,HUMA,11,0,Wake County Schools
+25359,920317,INFO,95,0,Wake County Schools
+25360,920317,MRKT,28,0,Wake County Schools
+25361,920317,STEM,35,0,Wake County Schools
+25386,920518,AAVC,24,0,Wake County Schools
+25387,920518,BMA,36,0,Wake County Schools
+25388,920518,EDUC,7,0,Wake County Schools
+25389,920518,HOSP,10,0,Wake County Schools
+25390,920518,HUMA,15,0,Wake County Schools
+25391,920518,INFO,20,0,Wake County Schools
+25428,92T000,BMA,5,1,Charter Schools
+25429,92T000,HLTH,19,1,Charter Schools
+25430,92T000,HOSP,8,1,Charter Schools
+25431,92T000,STEM,7,1,Charter Schools
+25458,950338,AAVC,3,0,Watauga County Schools
+25459,950338,ARCH,4,0,Watauga County Schools
+25460,950338,HLTH,2,0,Watauga County Schools
+25461,950338,HUMA,9,0,Watauga County Schools
+25462,950338,INFO,1,0,Watauga County Schools
+25463,950338,MANU,7,0,Watauga County Schools
+25464,950338,TRAN,9,0,Watauga County Schools
+25483,960490,ARCH,4,0,Wayne County Public Schools
+25484,960490,BMA,2,0,Wayne County Public Schools
+25485,960490,EDUC,1,0,Wayne County Public Schools
+25486,960490,MANU,2,0,Wayne County Public Schools
+25487,960490,STEM,3,0,Wayne County Public Schools
+25488,960490,TRAN,4,0,Wayne County Public Schools
+25501,98B000,INFO,16,1,Charter Schools
+25512,050303,BMA,1,0,Ashe County Schools
+25513,050303,MANU,1,0,Ashe County Schools
+25516,090376,ARCH,2,0,Bladen County Schools
+25517,090376,BMA,1,0,Bladen County Schools
+25518,090376,HLTH,5,0,Bladen County Schools
+25519,090376,HUMA,2,0,Bladen County Schools
+25530,130349,ARCH,1,0,Cabarrus County Schools
+25531,130349,BMA,2,0,Cabarrus County Schools
+25532,130349,INFO,10,0,Cabarrus County Schools
+25533,130349,LAW,1,0,Cabarrus County Schools
+25539,130350,ARCH,1,0,Cabarrus County Schools
+25540,130350,HUMA,2,0,Cabarrus County Schools
+25541,130350,INFO,1,0,Cabarrus County Schools
+25542,130350,LAW,1,0,Cabarrus County Schools
+25565,290315,EDUC,1,0,Davidson County Schools
+25566,290315,HLTH,5,0,Davidson County Schools
+25567,290315,MANU,1,0,Davidson County Schools
+25579,290349,AGNR,25,0,Davidson County Schools
+25580,290349,FINA,4,0,Davidson County Schools
+25581,290349,HLTH,70,0,Davidson County Schools
+25582,290349,HOSP,7,0,Davidson County Schools
+25583,290349,LAW,1,0,Davidson County Schools
+25584,290349,MANU,39,0,Davidson County Schools
+25585,290349,STEM,10,0,Davidson County Schools
+25595,39A000,AAVC,16,1,Charter Schools
+25599,421336,LAW,1,0,Roanoke Rapids City Schools
+25612,450354,MANU,1,0,Henderson County Schools
+25623,490307,AAVC,1,0,Iredell-Statesville Schools
+25624,490307,AGNR,10,0,Iredell-Statesville Schools
+25625,490307,BMA,4,0,Iredell-Statesville Schools
+25626,490307,LAW,2,0,Iredell-Statesville Schools
+25643,520344,AGNR,15,1,Jones County Schools
+25644,520344,ARCH,13,1,Jones County Schools
+25645,520344,BMA,4,1,Jones County Schools
+25646,520344,HLTH,20,1,Jones County Schools
+25647,520344,HUMA,6,1,Jones County Schools
+25648,520344,MRKT,10,1,Jones County Schools
+25649,520344,TRAN,6,1,Jones County Schools
+25658,550308,AGNR,1,0,Lincoln County Schools
+25667,600582,AGNR,7,0,Charlotte-Mecklenburg Schools
+25671,620350,ARCH,1,0,Montgomery County Schools
+25672,620350,MANU,1,0,Montgomery County Schools
+25673,620350,TRAN,1,0,Montgomery County Schools
+25680,640342,HLTH,7,1,Nash County Public Schools
+25681,640342,HOSP,3,1,Nash County Public Schools
+25682,640342,INFO,4,1,Nash County Public Schools
+25683,640342,MANU,6,1,Nash County Public Schools
+25684,640342,TRAN,5,1,Nash County Public Schools
+25694,650395,AAVC,2,0,New Hanover County Schools
+25695,650395,ARCH,3,0,New Hanover County Schools
+25696,650395,HUMA,1,0,New Hanover County Schools
+25697,650395,INFO,3,0,New Hanover County Schools
+25713,68A000,INFO,8,0,Charter Schools
+25724,730350,BMA,2,0,Person County Schools
+25725,730350,EDUC,1,0,Person County Schools
+25726,730350,HUMA,1,0,Person County Schools
+25727,730350,INFO,11,0,Person County Schools
+25728,730350,MANU,5,0,Person County Schools
+25736,760382,AAVC,1,0,Randolph County Schools
+25737,760382,AGNR,22,0,Randolph County Schools
+25738,760382,HLTH,6,0,Randolph County Schools
+25739,760382,INFO,1,0,Randolph County Schools
+25747,800394,LAW,3,0,Rowan-Salisbury Schools
+25754,810385,BMA,2,0,Rutherford County Schools
+25755,810385,MANU,1,0,Rutherford County Schools
+25765,840366,ARCH,1,0,Stanly County Schools
+25766,840366,MANU,1,0,Stanly County Schools
+25770,900367,BMA,1,0,Union County Public Schools
+25779,90F000,HUMA,1,1,Charter Schools
+25791,91A000,AGNR,11,1,Charter Schools
+25792,91A000,HUMA,1,1,Charter Schools
+25799,920437,AAVC,22,0,Wake County Schools
+25800,920437,AGNR,14,0,Wake County Schools
+25801,920437,BMA,1,0,Wake County Schools
+25802,920437,HLTH,1,0,Wake County Schools
+25803,920437,HUMA,21,0,Wake County Schools
+25804,920437,STEM,4,0,Wake County Schools
+25818,920561,AAVC,30,1,Wake County Schools
+25819,920561,AGNR,44,1,Wake County Schools
+25820,920561,ARCH,10,1,Wake County Schools
+25821,920561,HLTH,39,1,Wake County Schools
+25822,920561,HOSP,53,1,Wake County Schools
+25823,920561,HUMA,31,1,Wake County Schools
+25834,920582,INFO,48,0,Wake County Schools
+25843,980397,BMA,43,0,Wilson County Schools
+25844,980397,LAW,2,0,Wilson County Schools
+25847,01C000,EDUC,1,1,Charter Schools
+25848,01D000,INFO,1,0,Charter Schools
+25849,130339,HLTH,28,0,Cabarrus County Schools
+25850,130339,HUMA,38,0,Cabarrus County Schools
+25851,130339,STEM,10,0,Cabarrus County Schools
+25852,130339,TRAN,16,0,Cabarrus County Schools
+25861,130356,INFO,1,0,Cabarrus County Schools
+25863,13B000,HUMA,1,1,Charter Schools
+25864,160343,AAVC,1,0,Carteret County Public Schools
+25865,160343,ARCH,1,0,Carteret County Public Schools
+25866,160343,HLTH,1,0,Carteret County Public Schools
+25870,230323,MANU,1,0,Cleveland County Schools
+25872,260460,AAVC,1,0,Cumberland County Schools
+25873,260460,BMA,1,0,Cumberland County Schools
+25874,260460,LAW,3,0,Cumberland County Schools
+25878,26B000,EDUC,1,1,Charter Schools
+25879,26B000,HLTH,1,1,Charter Schools
+25880,53B000,AAVC,28,1,Charter Schools
+25881,620356,AGNR,2,0,Montgomery County Schools
+25882,620356,ARCH,3,0,Montgomery County Schools
+25883,620356,BMA,1,0,Montgomery County Schools
+25884,620356,HLTH,28,0,Montgomery County Schools
+25885,620356,LAW,21,0,Montgomery County Schools
+25886,620356,MANU,23,0,Montgomery County Schools
+25887,620356,STEM,1,0,Montgomery County Schools
+25888,620356,TRAN,2,0,Montgomery County Schools
+25897,650340,BMA,54,0,New Hanover County Schools
+25899,670300,BMA,1,0,Onslow County Schools
+25902,670379,HLTH,13,0,Onslow County Schools
+25905,700325,BMA,1,0,Pasquotank County Schools
+25906,700325,MANU,1,0,Pasquotank County Schools
+25907,860353,HLTH,4,0,Surry County Schools
+25908,860353,HUMA,1,0,Surry County Schools
+25909,860353,STEM,1,0,Surry County Schools
+25915,910369,HLTH,1,0,Vance County Schools
+25916,910369,HOSP,1,0,Vance County Schools
+25917,910369,HUMA,6,0,Vance County Schools
+25918,96F000,AGNR,3,1,Charter Schools
+25919,96F000,HLTH,9,1,Charter Schools
+25922,98A000,HLTH,9,1,Charter Schools
