@@ -131,7 +131,7 @@
     "Family Medicine"
   ],
     "jobs": ["Hospitals", "Nursing and Residential Care Facilities",
-    "Ambulatory Health Care Services"],
+    "Ambulatory Health Care Services"]},
   "Hospitality & Tourism": {"skills": [
     "Recreation",
     "Retail"
@@ -321,5 +321,4 @@
     "Repair and Maintenance"
   ]
   }
-
 }
